@@ -1,0 +1,2301 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<article xmlns="http://specifications.silverchair.com/xsd/1/41/SCJATS-journalpublishing.xsd" xsi:schemaLocation="http://specifications.silverchair.com/xsd/1/41/SCJATS-journalpublishing.xsd" xml:lang="en" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="research-article">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">elementa</journal-id>
+<journal-title-group>
+<journal-title>Elem Sci Anth</journal-title>
+</journal-title-group>
+<issn pub-type="ppub">2325-1026</issn>
+<publisher>
+<publisher-name>University of California Press</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">elementa.2023.00068</article-id>
+<article-id pub-id-type="doi">10.1525/elementa.2023.00068</article-id>
+<article-categories>
+<subj-group subj-group-type="category-taxonomy-collection">
+<subject>104</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Decoupling with&#x0028;out&#x0029; outsourcing? Quantifying emissions embodied in BRI trade with implications for climate policy</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname>Li</surname>
+<given-names>Yuan</given-names>
+</name>
+<xref ref-type="aff" rid="aff1">1</xref>
+<xref ref-type="aff" rid="aff2">2</xref>
+<xref ref-type="aff" rid="aff3">&#x2020;</xref>
+</contrib>
+<contrib contrib-type="author" corresp="yes">
+<name>
+<surname>Khan</surname>
+<given-names>Jamal</given-names>
+</name>
+<xref ref-type="aff" rid="aff1">1</xref>
+<xref ref-type="aff" rid="aff2">2</xref>
+<xref ref-type="aff" rid="aff3">&#x2020;</xref>
+<xref ref-type="corresp" rid="corresp1">&#x002A;</xref>
+</contrib>
+</contrib-group>
+<aff id="aff1">
+<label>1</label>Institute of International Studies, Shandong University, Weihai, Shandong, China</aff>
+<aff id="aff2">
+<label>2</label>School of Northeast Asia Studies, Shandong University, Weihai, Shandong, China</aff>
+<aff id="aff3">
+<label>&#x2020;</label>These authors have contributed equally to this work and share first authorship</aff>
+<author-notes>
+<corresp id="corresp1"><label>&#x002A;</label>Email: <email>jamalkhan_87@yahoo.com</email>
+</corresp>
+</author-notes>
+<pub-date pub-type="ppub" iso-8601-date="2024-05-13">
+<day>13</day>
+<month>05</month>
+<year>2024</year>
+</pub-date>
+<pub-date pub-type="cover">
+<year>2024</year>
+</pub-date>
+<volume>12</volume>
+<issue>1</issue>
+<elocation-id>00068</elocation-id>
+<supplementary-material content-type="data-supplement" xlink:href="Supplementry_material.docx"/>
+<history>
+<date date-type="received">
+<day>3</day>
+<month>5</month>
+<year>2023</year>
+</date>
+<date date-type="accepted">
+<day>5</day>
+<month>3</month>
+<year>2024</year>
+</date>
+</history>
+<permissions>
+<copyright-statement>&#x00A9; 2024 The Author&#x0028;s&#x0029;</copyright-statement>
+<copyright-year>2024</copyright-year>
+<license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/">
+<license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution 4.0 International License (CC-BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited. See <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>.</license-p>
+</license>
+</permissions>
+<self-uri xlink:href="elementa.2023.00068.pdf"/>
+<abstract>
+<p>We empirically examine the trade-related environmental impacts of the Belt and Road Initiative &#x0028;BRI&#x0029; using a novel technology-adjusted consumption-based accounting in addition to traditional accounting schemes and data from the Eora Global database from 1995 to 2015. We find that BRI trade accounted for 3-quarters &#x0028;5.01 Gt&#x0029; of global traded emissions in 2015. BRI countries account for 60&#x0025;&#x2013;75&#x0025; of &#x0028;non-BRI&#x0029; developed-world consumption-based emissions. While developing &#x0028;BRI&#x0029; countries import 8&#x0025;&#x2013;42&#x0025; of their consumption needs from China, they account for half of the China&#x2019;s imported emissions. Our analysis reveals that technological adjustments in export sectors significantly alter the magnitude of outsourcing and emission responsibility assigned to both BRI and non-BRI countries. This leads to a notable shift in net trade balance emissions. We find that developed &#x0028;BRI and non-BRI&#x0029; countries have reduced emissions primarily through decoupling and outsourcing. Our findings demonstrate that BRI trade has diverse environmental effects; exports from more carbon-efficient &#x0028;BRI and non-BRI&#x0029; developed countries are likely to reduce &#x0028;or avoid&#x0029; emissions in developing &#x0028;BRI&#x0029; countries and vice versa. An important implication of these findings is that China&#x2019;s BRI-led outsourcing and investments have the potential to yield significant environmental benefits by accelerating the transition to renewable energy in developing countries participating in the initiative.</p>
+</abstract>
+<kwd-group>
+<kwd>Belt and Road Initiative &#x0028;BRI&#x0029;</kwd>
+<kwd>Multi-Regional Input&#x2013;Output &#x0028;MRIO&#x0029;</kwd>
+<kwd>Emissions embodied in trade</kwd>
+<kwd>International trade</kwd>
+<kwd>Accounting schemes</kwd>
+</kwd-group>
+</article-meta>
+</front>
+<body>
+<sec id="s1">
+<title>1. Introduction</title>
+<p>Trade-led outsourcing of production is not necessarily bad for climate change, and it could facilitate climate goals through more carbon efficient distribution of production &#x0028;<xref ref-type="bibr" rid="ref1">Baumert et al., 2019</xref>&#x0029;. The causal chain is straightforward: If trade relocates production from countries that are less efficient at minimizing carbon emissions to more efficient and less carbon intensive countries, this may lead to reduce global emissions. The literature on emissions trends &#x0028;particularly in developed countries&#x0029; has been centered on 2 competing narratives &#x0028;<xref ref-type="bibr" rid="ref1">Baumert et al., 2019</xref>&#x0029;. The first &#x0028;optimistic&#x0029; narrative points out that developed countries have managed to decouple their growth from environmental pressure and limit their emissions &#x0028;<xref ref-type="bibr" rid="ref1">Jiborn et al., 2018</xref>; <xref ref-type="bibr" rid="ref1">Baumert et al., 2019</xref>&#x0029;. The second &#x0028;pessimistic&#x0029; narrative claims that developed countries &#x0028;with strict environmental policies&#x0029; have decoupled their economic growth from environmental pressure by shifting their pollution- and energy-intensive production units to developing countries with laxer environmental regulations &#x0028;<xref ref-type="bibr" rid="ref5">Dechezlepretre and Sato, 2017</xref>&#x0029;. Such trade-related outsourcing concerns have been reflected in the literature, which has suggested that reduction in emissions in developed countries may not be due to decoupling, but rather to the fact that they have outsourced their consumption-related environmental burden to developing countries or have increasingly met their consumption needs through imports &#x0028;<xref ref-type="bibr" rid="ref23">Peters et al., 2011</xref>; <xref ref-type="bibr" rid="ref17">Kanemoto et al., 2012</xref>&#x0029;. Hence, such an increase in imports from developing countries not only raises global emissions but also cancels out carbon efficiency improvements made by developed countries &#x0028;<xref ref-type="bibr" rid="ref15">Kagawa et al., 2015</xref>&#x0029;.</p>
+<p>From the standpoint of sustainable development, the central question then becomes, which of the narratives is &#x0028;more&#x0029; accurate? If the second &#x0028;pessimistic&#x0029; narrative is evidently stronger&#x2014;that is, outsourcing led to domestic emission reduction of developed countries&#x2014;then, this seems to be hardly sustainable. This issue is highly relevant to international agreements aimed at reducing emissions and monitoring national performance, as offshoring of emissions from regions with tighter domestic emission commitments to regions with laxer emission commitments would yield zero benefit of climate policies. It is therefore critical and policy-relevant to inquire which countries or regions engage in higher levels of production offshoring or consumption importation from other countries or regions and how international trade either facilitates or undermines climate goals.</p>
+<p>To this end, we aim to shed light on China&#x2019;s Belt and Road Initiative &#x0028;BRI&#x0029; trade-related emission transfers through 4 main objectives in this study. First, we aim to assess emissions from production and consumption in BRI and non-BRI countries/regions. Our second objective is to gauge trade-related emission transfers between &#x0028;intra&#x0029; BRI and non-BRI regions. Relatedly, we aim to identify and quantify the extent to which, and in what direction, BRI trade will facilitate &#x0028;undermine&#x0029; international climate efforts by decreasing &#x0028;increasing&#x0029; global emissions. Third, we aim to measure the technological differences in carbon intensities between BRI and non-BRI exporting sectors, as well as the extent to which these regions have improved their carbon efficiencies in recent years. Our focus lies in understanding how the adjustment of technological differences in carbon intensities affects the allocation of regional/national emission responsibilities. Finally, we seek to identify the major BRI regions and industries with the highest emissions content in exports.</p>
+<p>China&#x2019;s BRI is recognized as the world&#x2019;s largest infrastructure program, encompassing the expansion of land transportation infrastructure and the development of new ports &#x0028;<xref ref-type="bibr" rid="ref14">Jun and Zadek, 2019</xref>&#x0029;. The BRI will connect over 138 countries,<sup>
+<xref ref-type="fn" rid="fn1">1</xref>
+</sup> accounting for more than 40&#x0025; of global gross domestic product &#x0028;GDP&#x0029; and 60&#x0025; of the global population &#x0028;<xref ref-type="bibr" rid="ref21">Leverett and Bingbing, 2017</xref>&#x0029;. With annual investments of US&#x0024;150 billion and projected investments of US&#x0024;8 trillion by 2049, the BRI presents a new development paradigm that connects countries through improved regional connectivity, financial and economic integration, and regional trade &#x0028;<xref ref-type="bibr" rid="ref19">Lan and Vu, 2019</xref>&#x0029;. According to the <xref ref-type="bibr" rid="ref29">World Bank &#x0028;2019&#x0029;</xref>, the completion of BRI corridors is anticipated to result in trade growth between BRI and non-BRI economies. The estimated trade growth rates of BRI economies range from 2.8&#x0025; to 9.7&#x0025;, while for non-BRI economies, it ranges from 1.7&#x0025; to 6.2&#x0025;. Additionally, real income is anticipated to grow within the BRI at a rate between 1.2&#x0025; and 3.4&#x0025; and globally between 0.7&#x0025; and 2.9&#x0025;. These projections demonstrate that non-BRI countries and regions will also benefit from this initiative.</p>
+<p>Some experts regard BRI as China&#x2019;s overarching economic policy that will profoundly impact the development of infrastructure on a global scale &#x0028;<xref ref-type="bibr" rid="ref24">Schulhof et al., 2022</xref>&#x0029;. Others believe that if BRI investments are aligned with Sustainable Development Goals &#x0028;SDGs&#x0029;, such as ensuring resource efficiency and preventing environmental degradation, they can significantly contribute to advancing the 2030 SDG agenda and the Paris Agreement, similar to China&#x2019;s success in reducing poverty through the Millennium Development Goals &#x0028;MDGs&#x0029; &#x0028;<xref ref-type="bibr" rid="ref28">World Economic Forum, 2021</xref>&#x0029;. For example, poor infrastructure and associated high transportation costs in developing countries &#x0028;in the BRI region&#x0029; tend to impede labor shifts toward more productive sectors, thereby impeding growth-enhancing structural change &#x0028;<xref ref-type="bibr" rid="ref27">Weiss et al., 2018</xref>&#x0029;. From this perspective, it is expected that BRI infrastructure investment will be critical to achieving various SDGs in the BRI region.<sup>
+<xref ref-type="fn" rid="fn2">2</xref>
+</sup> For example, access to improved transportation infrastructure &#x0028;SDGs 9&#x0029; in the BRI region would have a significant impact on millions of humans&#x2019; lives, particularly in less-developed countries with wide-scale poverty &#x0028;<xref ref-type="bibr" rid="ref25">Steckel et al., 2020</xref>&#x0029;. The development of transportation infrastructure is anticipated to play a crucial role in achieving other SDGs, such as reducing poverty &#x0028;SDGs 1&#x0029; and promoting socioeconomic development &#x0028;SDG 8&#x0029;. BRI transportation projects have the potential to lift 7.6 million people out of extreme poverty and 23 million people out of moderate poverty &#x0028;<xref ref-type="bibr" rid="ref29">World Bank, 2019</xref>&#x0029;.</p>
+<p>The potential of the BRI in contributing to the achievement of SDGs &#x0028;1, 8, 9, and 12&#x0029; in the BRI region is indeed promising. However, there are concerns within the international community and among researchers about the BRI&#x2019;s environmental impact, with one concern being that China may outsource its polluting industries and output overcapacity through the BRI &#x0028;<xref ref-type="bibr" rid="ref50">Huang, 2019</xref>; <xref ref-type="bibr" rid="ref31">Xin and Wang, 2022</xref>&#x0029;. However, it should be noted that such relocations are neither new nor exclusive to China&#x2019;s BRI<sup>
+<xref ref-type="fn" rid="fn3">3</xref>
+</sup> &#x0028;<xref ref-type="bibr" rid="ref51">Page, 1994</xref>; <xref ref-type="bibr" rid="ref41">Han et al., 2024</xref>&#x0029;. On the one hand, some argue that China&#x2019;s trade cooperation and outward direct investment can have favorable environmental effects. Notably, they posit that it allows BRI countries to share low-carbon technologies &#x0028;<xref ref-type="bibr" rid="ref10">Huang and Li, 2020</xref>&#x0029; and strengthen their capacity to combat climate change &#x0028;SDGs 13&#x0029; &#x0028;<xref ref-type="bibr" rid="ref30">Wu et al., 2020</xref>&#x0029;. Furthermore, several studies indicate that BRI investment could be a source of funding for countries &#x0028;particularly African countries with limited capital&#x0029; transitioning to renewable energy and promoting sustainable development &#x0028;<xref ref-type="bibr" rid="ref4">Cui et al., 2022</xref>&#x0029;. Other studies pointed out that China&#x2019;s infrastructure investments in BRI countries boost GDP growth and mitigate climate change &#x0028;<xref ref-type="bibr" rid="ref50">Huang, 2019</xref>&#x0029;. On the other hand, the development and upgradation of transportation infrastructure raises concerns about its environmental impact and requires massive raw material extraction and resource destruction, which may clash with other SDGs including the destruction of ecosystem, climate change, and challenges related to clean water and clean energy provision &#x0028;<xref ref-type="bibr" rid="ref20">Laurance et al., 2014</xref>; <xref ref-type="bibr" rid="ref26">Teo et al., 2019</xref>&#x0029;. These concerns are based on the extraction of raw materials and the potential clash with several SDGs, including SDG 14 and 15 &#x0028;related to life below water and life on land&#x0029;, SDG 13 &#x0028;climate action&#x0029;, and SDGs 6 and 7 &#x0028;clean water and clean energy&#x0029;. What is more, some studies suggest that the environmental impact of BRI trade varies, with both positive and negative effects coexisting in BRI countries, as demonstrated by &#x201C;Pollution Haven&#x201D; and &#x201C;Pollution Halo&#x201D; hypotheses &#x0028;<xref ref-type="bibr" rid="ref22">Muhammad et al., 2020</xref>&#x0029;.</p>
+<p>A substantial amount of empirical research has been conducted using the input&#x2013;output analysis to investigate the trade-related environmental effects of BRI &#x0028;<xref ref-type="bibr" rid="ref3">Cai et al., 2018</xref>; <xref ref-type="bibr" rid="ref40">Hou et al., 2020</xref>; <xref ref-type="bibr" rid="ref18">Khan et al., 2022</xref>&#x0029;. <xref ref-type="bibr" rid="ref3">Cai et al. &#x0028;2018&#x0029;</xref>, for example, used a Multi-Regional Input&#x2013;Output &#x0028;MRIO&#x0029; model to examine China&#x2019;s emissions transfer to and from BRI regions and discovered that China is a net importer &#x0028;exporter&#x0029; of emissions from 19 developing &#x0028;to 22 developed&#x0029; BRI countries, while <xref ref-type="bibr" rid="ref7">Ding et al. &#x0028;2018&#x0029;</xref> documented a significant increase in China&#x2019;s emission exports to 68 BRI and 38 non-BRI countries. Similarly, <xref ref-type="bibr" rid="ref9">Han et al. &#x0028;2018&#x0029;</xref> discovered that BRI regions are both net exporters and net producers of embodied carbon emissions, with a consistent widening gap between their production-based emissions &#x0028;PBEs&#x0029; and consumption-based emissions &#x0028;CBEs&#x0029;. In a recent study, <xref ref-type="bibr" rid="ref18">Khan et al. &#x0028;2022&#x0029;</xref> used a large data set of over 130 BRI countries to conclude that BRI export emissions accounted for 60&#x0025; of global traded emissions with varying environmental impacts. They discovered that BRI exports from efficient BRI &#x0028;developed&#x0029; countries to less efficient BRI &#x0028;typically developing&#x0029; countries contribute to meeting climate goals by avoiding or limiting emissions and vice versa.</p>
+<p>Despite a growing body of scholarly empirical efforts to disentangle the environmental impacts of BRI, some of these quantified trade-related emission transfers from China to &#x0028;developed and developing&#x0029; BRI countries &#x0028;<xref ref-type="bibr" rid="ref3">Cai et al., 2018</xref>&#x0029;, while others quantified overall embodied emission transfers of BRI countries &#x0028;e.g., <xref ref-type="bibr" rid="ref9">Han et al., 2018</xref>, for 65 countries, and <xref ref-type="bibr" rid="ref18">Khan et al., 2022</xref>, for 132 countries&#x0029;. However, the majority of studies have overlooked important factors, such as technological differences between BRI and non-BRI countries, improvements in domestic emission efficiencies resulting from the adoption of new efficient production technologies in recent decades, and the amount of emissions saved or caused by their trade. Furthermore, there has been limited research on the extent to which BRI &#x0028;inter or intra&#x0029; trade supports or undermines sustainable development and climate goals, with exception of some recent studies by <xref ref-type="bibr" rid="ref18">Khan et al. &#x0028;2022&#x0029;</xref>. Additionally, the identification of the top exporting sectors in BRI trade that are highly emission intensive has gone unnoticed. This article therefore attempts to provide a comprehensive account of 132 BRI countries&#x2019; trade-related emissions transfers in order to demonstrate the true environmental impact of BRI trade by emphasizing how it would help or hinder efforts to combat global climate change.</p>
+<p>We employ an MRIO model to assess the trade-related environmental impacts of 132 BRI and 57 non-BRI countries from 1995 to 2015, utilizing the EORA database and EORA satellite accounts &#x0028;EDGAR&#x0029;. We first examine the PBE and CBE of the BRI and non-BRI regions using conventional production-based emission accounting &#x0028;PBA&#x0029; and consumption-based emission accounting &#x0028;CBA&#x0029; schemes, as well as trade-related net emission transfers both within the BRI regions and between the BRI and non-BRI regions. Following that, we employ a novel technology-adjusted CBA &#x0028;TCBA&#x0029; scheme that normalizes sectoral emission intensities based on the global average emission intensity of each sector. The TCBA scheme is notable for how adjusting for technological differences affects the emission responsibilities of a country or region in international trade, challenging commonly held beliefs about the global pattern of outsourcing and insourcing of emissions. Hence, the TCBA-led technological adjustments allow us to provide precise estimates of the environmental impact of BRI trade and the reversal of the net flow of emissions in trade for both BRI and non-BRI countries. More importantly, it enables us to demonstrate how BRI trade would aid &#x0028;hinder&#x0029; efforts to combat global warming by relocating production in a more &#x0028;less&#x0029; efficient manner.</p>
+<p>We have made 3 contributions to the existing literature. We are the first to provide a comprehensive global account of &#x0028;maximum country coverage of 132&#x0029; BRI countries and non-BRI countries from 1995 to 2015 from both the production and consumption ends. Second, we quantify the trade-related environmental impacts of BRI trade with non-BRI countries as well as intra-BRI trade. By identifying how BRI trade can either support or hinder global climate mitigation efforts, we demonstrate and emphasize the true environmental impact of BRI trade. We also provide the first comprehensive quantification of China&#x2019;s BRI-related emission outsourcing to developing &#x0028;BRI&#x0029; countries, demonstrating that, while such outsourcing may have environmental consequences, there are opportunities to accelerate the transition to renewable energy in developing countries. Third, we underline how the choice of accounting principles affects the magnitude and direction of international trade emission flows. Our findings highlight that accounting for technological differences between trading partners can result in a reversal of the net flow of emissions in international trade for a number of countries, casting doubt on widely held notions about the global pattern of emissions outsourcing/insourcing as interpreted by conventional accounting schemes.</p>
+<p>This article proceeds as follows: Section 2 outlines the methodology and sheds light on the data. Section 3 reports the main results along with their discussions, and the last section consists of our conclusions.</p>
+</sec>
+<sec id="s2">
+<title>2. Method</title>
+<sec id="s3">
+<title>2.1. Conventional PBA and CBA schemes</title>
+<p>In the MRIO framework, regions are linked via production and consumption activities via domestic and global supply chains &#x0028;<xref ref-type="bibr" rid="ref35">Huang et al., 2021</xref>; <xref ref-type="bibr" rid="ref52">Huang et al., 2023</xref>&#x0029;. The basic IO model developed by Leontief &#x0028;1930&#x0029; is given as:</p>
+<disp-formula id="disp-formula1">
+<label>1</label>
+<mml:math id="mml-disp1" altimg="elementa.2023.00068.eq01.tif">
+<mml:mtable columnalign="left">
+<mml:mtr>
+<mml:mtd>
+<mml:mi>x</mml:mi>
+<mml:mo>&#x003D;</mml:mo>
+<mml:mi>A</mml:mi>
+<mml:mi>x</mml:mi>
+<mml:mo>&#x002B;</mml:mo>
+<mml:mi>y</mml:mi>
+<mml:mo>,</mml:mo>
+</mml:mtd>
+</mml:mtr>
+<mml:mtr>
+<mml:mtd>
+<mml:mi>x</mml:mi>
+<mml:mo>&#x003D;</mml:mo>
+<mml:msup>
+<mml:mrow>
+<mml:mo stretchy="false">&#x0028;</mml:mo>
+<mml:mi>I</mml:mi>
+<mml:mo>&#x2212;</mml:mo>
+<mml:mi>A</mml:mi>
+<mml:mo stretchy="false">&#x0029;</mml:mo>
+</mml:mrow>
+<mml:mrow>
+<mml:mo>&#x2212;</mml:mo>
+<mml:mn>1</mml:mn>
+</mml:mrow>
+</mml:msup>
+<mml:mi>y</mml:mi>
+<mml:mo>,</mml:mo>
+</mml:mtd>
+</mml:mtr>
+<mml:mtr>
+<mml:mtd>
+<mml:mi>x</mml:mi>
+<mml:mo>&#x003D;</mml:mo>
+<mml:mi>L</mml:mi>
+<mml:mi>y</mml:mi>
+<mml:mo>,</mml:mo>
+</mml:mtd>
+</mml:mtr>
+</mml:mtable>
+</mml:math>
+</disp-formula>
+<p>where <inline-formula id="inline-formula1">
+<mml:math id="mml-inline1">
+<mml:mi>x</mml:mi>
+</mml:math>
+</inline-formula> and <inline-formula id="inline-formula2">
+<mml:math id="mml-inline2">
+<mml:mi>y</mml:mi>
+</mml:math>
+</inline-formula> represent the vector of total output and final demand, respectively. <italic>A</italic> is a technical coefficient that represents the amount of a sector&#x2019;s input &#x0028;say sector <italic>i</italic>&#x0029; used in the production of its own or other sector&#x2019;s output &#x0028;say sector <italic>j</italic>&#x0029;. Finally, <inline-formula id="inline-formula3">
+<mml:math id="mml-inline3">
+<mml:mrow>
+<mml:mi>L</mml:mi>
+<mml:mo>&#x003D;</mml:mo>
+<mml:msup>
+<mml:mrow>
+<mml:mo stretchy="false">&#x0028;</mml:mo>
+<mml:mi>I</mml:mi>
+<mml:mo>&#x2212;</mml:mo>
+<mml:mi>A</mml:mi>
+<mml:mo stretchy="false">&#x0029;</mml:mo>
+</mml:mrow>
+<mml:mrow>
+<mml:mo>&#x2212;</mml:mo>
+<mml:mn>1</mml:mn>
+</mml:mrow>
+</mml:msup>
+</mml:mrow>
+</mml:math>
+</inline-formula> is the Leontief inverse matrix, and its elements capture the total &#x0028;direct plus indirect&#x0029; impact of a unit change in final demand &#x0028;<xref ref-type="bibr" rid="ref45">Khan et al., 2024</xref>&#x0029;.</p>
+<p>In the MRIO setting, regions are subdivided into different blocks, each of which contains different sets of matrices and vectors. The composition of the MRIO model with <inline-formula id="inline-formula4">
+<mml:math id="mml-inline4">
+<mml:mi>n</mml:mi>
+</mml:math>
+</inline-formula> regions is given as:</p>
+<disp-formula id="disp-formula2">
+<label>2</label>
+<mml:math id="mml-disp2" altimg="elementa.2023.00068.eq02.tif">
+<mml:mrow>
+<mml:mrow>
+<mml:mo stretchy="true">&#x0028;</mml:mo>
+<mml:mrow>
+<mml:mtable>
+<mml:mtr>
+<mml:mtd>
+<mml:mrow>
+<mml:msub>
+<mml:mi>x</mml:mi>
+<mml:mn>1</mml:mn>
+</mml:msub>
+</mml:mrow>
+</mml:mtd>
+</mml:mtr>
+<mml:mtr>
+<mml:mtd>
+<mml:mrow>
+<mml:msub>
+<mml:mi>x</mml:mi>
+<mml:mn>2</mml:mn>
+</mml:msub>
+</mml:mrow>
+</mml:mtd>
+</mml:mtr>
+<mml:mtr>
+<mml:mtd>
+<mml:mo>&#x22EE;</mml:mo>
+</mml:mtd>
+</mml:mtr>
+<mml:mtr>
+<mml:mtd>
+<mml:mrow>
+<mml:msub>
+<mml:mi>x</mml:mi>
+<mml:mi>m</mml:mi>
+</mml:msub>
+</mml:mrow>
+</mml:mtd>
+</mml:mtr>
+</mml:mtable>
+</mml:mrow>
+<mml:mo stretchy="true">&#x0029;</mml:mo>
+</mml:mrow>
+<mml:mo>&#x003D;</mml:mo>
+<mml:mrow>
+<mml:mo stretchy="true">&#x0028;</mml:mo>
+<mml:mrow>
+<mml:mtable>
+<mml:mtr>
+<mml:mtd>
+<mml:mrow>
+<mml:msub>
+<mml:mi>A</mml:mi>
+<mml:mrow>
+<mml:mn>11</mml:mn>
+</mml:mrow>
+</mml:msub>
+</mml:mrow>
+</mml:mtd>
+<mml:mtd>
+<mml:mrow>
+<mml:msub>
+<mml:mi>A</mml:mi>
+<mml:mrow>
+<mml:mn>12</mml:mn>
+</mml:mrow>
+</mml:msub>
+</mml:mrow>
+</mml:mtd>
+<mml:mtd>
+<mml:mo>&#x22EF;</mml:mo>
+</mml:mtd>
+<mml:mtd>
+<mml:mrow>
+<mml:msub>
+<mml:mi>A</mml:mi>
+<mml:mrow>
+<mml:mn>1</mml:mn>
+<mml:mi>m</mml:mi>
+</mml:mrow>
+</mml:msub>
+</mml:mrow>
+</mml:mtd>
+</mml:mtr>
+<mml:mtr>
+<mml:mtd>
+<mml:mrow>
+<mml:msub>
+<mml:mi>A</mml:mi>
+<mml:mrow>
+<mml:mn>21</mml:mn>
+</mml:mrow>
+</mml:msub>
+</mml:mrow>
+</mml:mtd>
+<mml:mtd>
+<mml:mrow>
+<mml:msub>
+<mml:mi>A</mml:mi>
+<mml:mrow>
+<mml:mn>22</mml:mn>
+</mml:mrow>
+</mml:msub>
+</mml:mrow>
+</mml:mtd>
+<mml:mtd>
+<mml:mo>&#x22EF;</mml:mo>
+</mml:mtd>
+<mml:mtd>
+<mml:mrow>
+<mml:msub>
+<mml:mi>A</mml:mi>
+<mml:mrow>
+<mml:mn>2</mml:mn>
+<mml:mi>m</mml:mi>
+</mml:mrow>
+</mml:msub>
+</mml:mrow>
+</mml:mtd>
+</mml:mtr>
+<mml:mtr>
+<mml:mtd>
+<mml:mo>&#x22EE;</mml:mo>
+</mml:mtd>
+<mml:mtd>
+<mml:mo>&#x22EE;</mml:mo>
+</mml:mtd>
+<mml:mtd>
+<mml:mo>&#x22F1;</mml:mo>
+</mml:mtd>
+<mml:mtd>
+<mml:mo>&#x22EE;</mml:mo>
+</mml:mtd>
+</mml:mtr>
+<mml:mtr>
+<mml:mtd>
+<mml:mrow>
+<mml:msub>
+<mml:mi>A</mml:mi>
+<mml:mrow>
+<mml:mi>m</mml:mi>
+<mml:mn>1</mml:mn>
+</mml:mrow>
+</mml:msub>
+</mml:mrow>
+</mml:mtd>
+<mml:mtd>
+<mml:mrow>
+<mml:msub>
+<mml:mi>A</mml:mi>
+<mml:mrow>
+<mml:mi>m</mml:mi>
+<mml:mn>2</mml:mn>
+</mml:mrow>
+</mml:msub>
+</mml:mrow>
+</mml:mtd>
+<mml:mtd>
+<mml:mo>&#x22EF;</mml:mo>
+</mml:mtd>
+<mml:mtd>
+<mml:mrow>
+<mml:msub>
+<mml:mi>A</mml:mi>
+<mml:mrow>
+<mml:mi>m</mml:mi>
+<mml:mi>m</mml:mi>
+</mml:mrow>
+</mml:msub>
+</mml:mrow>
+</mml:mtd>
+</mml:mtr>
+</mml:mtable>
+</mml:mrow>
+<mml:mo stretchy="true">&#x0029;</mml:mo>
+</mml:mrow>
+<mml:mrow>
+<mml:mo stretchy="true">&#x0028;</mml:mo>
+<mml:mrow>
+<mml:mtable>
+<mml:mtr>
+<mml:mtd>
+<mml:mrow>
+<mml:msub>
+<mml:mi>x</mml:mi>
+<mml:mn>1</mml:mn>
+</mml:msub>
+</mml:mrow>
+</mml:mtd>
+</mml:mtr>
+<mml:mtr>
+<mml:mtd>
+<mml:mrow>
+<mml:msub>
+<mml:mi>x</mml:mi>
+<mml:mn>2</mml:mn>
+</mml:msub>
+</mml:mrow>
+</mml:mtd>
+</mml:mtr>
+<mml:mtr>
+<mml:mtd>
+<mml:mo>&#x22EE;</mml:mo>
+</mml:mtd>
+</mml:mtr>
+<mml:mtr>
+<mml:mtd>
+<mml:mrow>
+<mml:msub>
+<mml:mi>x</mml:mi>
+<mml:mi>m</mml:mi>
+</mml:msub>
+</mml:mrow>
+</mml:mtd>
+</mml:mtr>
+</mml:mtable>
+</mml:mrow>
+<mml:mo stretchy="true">&#x0029;</mml:mo>
+</mml:mrow>
+<mml:mo>&#x002B;</mml:mo>
+<mml:mrow>
+<mml:mo stretchy="true">&#x0028;</mml:mo>
+<mml:mrow>
+<mml:mtable>
+<mml:mtr>
+<mml:mtd>
+<mml:mrow>
+<mml:mstyle displaystyle="true">
+<mml:munder>
+<mml:mo>&#x2211;</mml:mo>
+<mml:mi>i</mml:mi>
+</mml:munder>
+<mml:mrow>
+<mml:msub>
+<mml:mi>y</mml:mi>
+<mml:mrow>
+<mml:mn>1</mml:mn>
+<mml:mi>i</mml:mi>
+</mml:mrow>
+</mml:msub>
+</mml:mrow>
+</mml:mstyle>
+</mml:mrow>
+</mml:mtd>
+</mml:mtr>
+<mml:mtr>
+<mml:mtd>
+<mml:mrow>
+<mml:mstyle displaystyle="true">
+<mml:munder>
+<mml:mo>&#x2211;</mml:mo>
+<mml:mi>i</mml:mi>
+</mml:munder>
+<mml:mrow>
+<mml:msub>
+<mml:mi>y</mml:mi>
+<mml:mrow>
+<mml:mn>2</mml:mn>
+<mml:mi>i</mml:mi>
+</mml:mrow>
+</mml:msub>
+</mml:mrow>
+</mml:mstyle>
+</mml:mrow>
+</mml:mtd>
+</mml:mtr>
+<mml:mtr>
+<mml:mtd>
+<mml:mo>&#x22EE;</mml:mo>
+</mml:mtd>
+</mml:mtr>
+<mml:mtr>
+<mml:mtd>
+<mml:mrow>
+<mml:mstyle displaystyle="true">
+<mml:munder>
+<mml:mo>&#x2211;</mml:mo>
+<mml:mi>i</mml:mi>
+</mml:munder>
+<mml:mrow>
+<mml:msub>
+<mml:mi>y</mml:mi>
+<mml:mrow>
+<mml:mi>m</mml:mi>
+<mml:mi>i</mml:mi>
+</mml:mrow>
+</mml:msub>
+</mml:mrow>
+</mml:mstyle>
+</mml:mrow>
+</mml:mtd>
+</mml:mtr>
+</mml:mtable>
+</mml:mrow>
+<mml:mo stretchy="true">&#x0029;</mml:mo>
+</mml:mrow>
+<mml:mo>,</mml:mo>
+</mml:mrow>
+</mml:math>
+</disp-formula>
+<p>where the diagonal submatrix <inline-formula id="inline-formula5">
+<mml:math id="mml-inline5">
+<mml:mrow>
+<mml:msubsup>
+<mml:mi>A</mml:mi>
+<mml:mrow>
+<mml:mi>i</mml:mi>
+<mml:mi>i</mml:mi>
+</mml:mrow>
+<mml:mrow>
+<mml:mi>R</mml:mi>
+<mml:mi>R</mml:mi>
+</mml:mrow>
+</mml:msubsup>
+</mml:mrow>
+</mml:math>
+</inline-formula> in the block matrix represents the intersectoral demand for domestic production in region <italic>R</italic>, while <inline-formula id="inline-formula6">
+<mml:math id="mml-inline6">
+<mml:mrow>
+<mml:msubsup>
+<mml:mi>A</mml:mi>
+<mml:mrow>
+<mml:mi>i</mml:mi>
+<mml:mi>j</mml:mi>
+</mml:mrow>
+<mml:mrow>
+<mml:mi>R</mml:mi>
+<mml:mi>S</mml:mi>
+</mml:mrow>
+</mml:msubsup>
+</mml:mrow>
+</mml:math>
+</inline-formula> represents the intersectoral demand of region <italic>S&#x2019;s sector j</italic> from sector <italic>i</italic> of region <inline-formula id="inline-formula7">
+<mml:math id="mml-inline7">
+<mml:mi>R</mml:mi>
+</mml:math>
+</inline-formula>, which in simple words is, region <inline-formula id="inline-formula8">
+<mml:math id="mml-inline8">
+<mml:mi>S</mml:mi>
+</mml:math>
+</inline-formula> imports of intermediate goods and services from region <italic>R</italic>. Likewise, <inline-formula id="inline-formula9">
+<mml:math id="mml-inline9">
+<mml:mrow>
+<mml:msup>
+<mml:mi>y</mml:mi>
+<mml:mrow>
+<mml:mi>R</mml:mi>
+<mml:mi>R</mml:mi>
+</mml:mrow>
+</mml:msup>
+</mml:mrow>
+</mml:math>
+</inline-formula> and <inline-formula id="inline-formula10">
+<mml:math id="mml-inline10">
+<mml:mrow>
+<mml:msup>
+<mml:mi>y</mml:mi>
+<mml:mrow>
+<mml:mi>R</mml:mi>
+<mml:mi>S</mml:mi>
+</mml:mrow>
+</mml:msup>
+</mml:mrow>
+</mml:math>
+</inline-formula> represent region <italic>R&#x2019;</italic>s domestic final demand and its exports of final goods and services to region <inline-formula id="inline-formula11">
+<mml:math id="mml-inline11">
+<mml:mi>S</mml:mi>
+</mml:math>
+</inline-formula>, respectively. Based on the final demand of each region, the output of each region in Equation 2 can be decomposed as follows:</p>
+<disp-formula id="disp-formula3">
+<label>3</label>
+<mml:math id="mml-disp3" altimg="elementa.2023.00068.eq03.tif">
+<mml:mrow>
+<mml:mrow>
+<mml:mo stretchy="true">&#x0028;</mml:mo>
+<mml:mrow>
+<mml:mtable>
+<mml:mtr>
+<mml:mtd>
+<mml:mrow>
+<mml:msub>
+<mml:mi>x</mml:mi>
+<mml:mrow>
+<mml:mn>11</mml:mn>
+</mml:mrow>
+</mml:msub>
+</mml:mrow>
+</mml:mtd>
+<mml:mtd>
+<mml:mrow>
+<mml:msub>
+<mml:mi>x</mml:mi>
+<mml:mrow>
+<mml:mn>12</mml:mn>
+</mml:mrow>
+</mml:msub>
+</mml:mrow>
+</mml:mtd>
+<mml:mtd>
+<mml:mo>&#x22EF;</mml:mo>
+</mml:mtd>
+<mml:mtd>
+<mml:mrow>
+<mml:msub>
+<mml:mi>x</mml:mi>
+<mml:mrow>
+<mml:mn>1</mml:mn>
+<mml:mi>m</mml:mi>
+</mml:mrow>
+</mml:msub>
+</mml:mrow>
+</mml:mtd>
+</mml:mtr>
+<mml:mtr>
+<mml:mtd>
+<mml:mrow>
+<mml:msub>
+<mml:mi>x</mml:mi>
+<mml:mrow>
+<mml:mn>21</mml:mn>
+</mml:mrow>
+</mml:msub>
+</mml:mrow>
+</mml:mtd>
+<mml:mtd>
+<mml:mrow>
+<mml:msub>
+<mml:mi>x</mml:mi>
+<mml:mrow>
+<mml:mn>22</mml:mn>
+</mml:mrow>
+</mml:msub>
+</mml:mrow>
+</mml:mtd>
+<mml:mtd>
+<mml:mo>&#x22EF;</mml:mo>
+</mml:mtd>
+<mml:mtd>
+<mml:mrow>
+<mml:msub>
+<mml:mi>x</mml:mi>
+<mml:mrow>
+<mml:mn>2</mml:mn>
+<mml:mi>m</mml:mi>
+</mml:mrow>
+</mml:msub>
+</mml:mrow>
+</mml:mtd>
+</mml:mtr>
+<mml:mtr>
+<mml:mtd>
+<mml:mo>&#x22EE;</mml:mo>
+</mml:mtd>
+<mml:mtd>
+<mml:mo>&#x22EE;</mml:mo>
+</mml:mtd>
+<mml:mtd>
+<mml:mo>&#x22F1;</mml:mo>
+</mml:mtd>
+<mml:mtd>
+<mml:mo>&#x22EE;</mml:mo>
+</mml:mtd>
+</mml:mtr>
+<mml:mtr>
+<mml:mtd>
+<mml:mrow>
+<mml:msub>
+<mml:mi>x</mml:mi>
+<mml:mrow>
+<mml:mi>m</mml:mi>
+<mml:mn>1</mml:mn>
+</mml:mrow>
+</mml:msub>
+</mml:mrow>
+</mml:mtd>
+<mml:mtd>
+<mml:mrow>
+<mml:msub>
+<mml:mi>x</mml:mi>
+<mml:mrow>
+<mml:mi>m</mml:mi>
+<mml:mn>2</mml:mn>
+</mml:mrow>
+</mml:msub>
+</mml:mrow>
+</mml:mtd>
+<mml:mtd>
+<mml:mo>&#x22EF;</mml:mo>
+</mml:mtd>
+<mml:mtd>
+<mml:mrow>
+<mml:msub>
+<mml:mi>x</mml:mi>
+<mml:mrow>
+<mml:mi>m</mml:mi>
+<mml:mi>m</mml:mi>
+</mml:mrow>
+</mml:msub>
+</mml:mrow>
+</mml:mtd>
+</mml:mtr>
+</mml:mtable>
+</mml:mrow>
+<mml:mo stretchy="true">&#x0029;</mml:mo>
+</mml:mrow>
+<mml:mo>&#x003D;</mml:mo>
+<mml:msup>
+<mml:mrow>
+<mml:mrow>
+<mml:mo stretchy="true">&#x0028;</mml:mo>
+<mml:mrow>
+<mml:mtable>
+<mml:mtr>
+<mml:mtd>
+<mml:mrow>
+<mml:mi>I</mml:mi>
+<mml:mo>&#x2212;</mml:mo>
+<mml:msub>
+<mml:mi>A</mml:mi>
+<mml:mrow>
+<mml:mn>11</mml:mn>
+</mml:mrow>
+</mml:msub>
+</mml:mrow>
+</mml:mtd>
+<mml:mtd>
+<mml:mrow>
+<mml:mo>&#x2212;</mml:mo>
+<mml:msub>
+<mml:mi>A</mml:mi>
+<mml:mrow>
+<mml:mn>12</mml:mn>
+</mml:mrow>
+</mml:msub>
+</mml:mrow>
+</mml:mtd>
+<mml:mtd>
+<mml:mo>&#x22EF;</mml:mo>
+</mml:mtd>
+<mml:mtd>
+<mml:mrow>
+<mml:mo>&#x2212;</mml:mo>
+<mml:msub>
+<mml:mi>A</mml:mi>
+<mml:mrow>
+<mml:mn>1</mml:mn>
+<mml:mi>m</mml:mi>
+</mml:mrow>
+</mml:msub>
+</mml:mrow>
+</mml:mtd>
+</mml:mtr>
+<mml:mtr>
+<mml:mtd>
+<mml:mrow>
+<mml:mo>&#x2212;</mml:mo>
+<mml:msub>
+<mml:mi>A</mml:mi>
+<mml:mrow>
+<mml:mn>21</mml:mn>
+</mml:mrow>
+</mml:msub>
+</mml:mrow>
+</mml:mtd>
+<mml:mtd>
+<mml:mrow>
+<mml:mo>&#x2212;</mml:mo>
+<mml:msub>
+<mml:mi>A</mml:mi>
+<mml:mrow>
+<mml:mn>22</mml:mn>
+</mml:mrow>
+</mml:msub>
+</mml:mrow>
+</mml:mtd>
+<mml:mtd>
+<mml:mo>&#x22EF;</mml:mo>
+</mml:mtd>
+<mml:mtd>
+<mml:mrow>
+<mml:mo>&#x2212;</mml:mo>
+<mml:msub>
+<mml:mi>A</mml:mi>
+<mml:mrow>
+<mml:mn>2</mml:mn>
+<mml:mi>m</mml:mi>
+</mml:mrow>
+</mml:msub>
+</mml:mrow>
+</mml:mtd>
+</mml:mtr>
+<mml:mtr>
+<mml:mtd>
+<mml:mo>&#x22EE;</mml:mo>
+</mml:mtd>
+<mml:mtd>
+<mml:mo>&#x22EE;</mml:mo>
+</mml:mtd>
+<mml:mtd>
+<mml:mo>&#x22F1;</mml:mo>
+</mml:mtd>
+<mml:mtd>
+<mml:mo>&#x22EE;</mml:mo>
+</mml:mtd>
+</mml:mtr>
+<mml:mtr>
+<mml:mtd>
+<mml:mrow>
+<mml:mo>&#x2212;</mml:mo>
+<mml:msub>
+<mml:mi>A</mml:mi>
+<mml:mrow>
+<mml:mi>m</mml:mi>
+<mml:mn>1</mml:mn>
+</mml:mrow>
+</mml:msub>
+</mml:mrow>
+</mml:mtd>
+<mml:mtd>
+<mml:mrow>
+<mml:mo>&#x2212;</mml:mo>
+<mml:msub>
+<mml:mi>A</mml:mi>
+<mml:mrow>
+<mml:mi>m</mml:mi>
+<mml:mn>2</mml:mn>
+</mml:mrow>
+</mml:msub>
+</mml:mrow>
+</mml:mtd>
+<mml:mtd>
+<mml:mo>&#x22EF;</mml:mo>
+</mml:mtd>
+<mml:mtd>
+<mml:mrow>
+<mml:mi>I</mml:mi>
+<mml:mo>&#x2212;</mml:mo>
+<mml:msub>
+<mml:mi>A</mml:mi>
+<mml:mrow>
+<mml:mi>m</mml:mi>
+<mml:mi>m</mml:mi>
+</mml:mrow>
+</mml:msub>
+</mml:mrow>
+</mml:mtd>
+</mml:mtr>
+</mml:mtable>
+</mml:mrow>
+<mml:mo stretchy="true">&#x0029;</mml:mo>
+</mml:mrow>
+</mml:mrow>
+<mml:mrow>
+<mml:mo>&#x2212;</mml:mo>
+<mml:mn>1</mml:mn>
+</mml:mrow>
+</mml:msup>
+<mml:mrow>
+<mml:mo stretchy="true">&#x0028;</mml:mo>
+<mml:mrow>
+<mml:mtable>
+<mml:mtr>
+<mml:mtd>
+<mml:mrow>
+<mml:msub>
+<mml:mi>y</mml:mi>
+<mml:mrow>
+<mml:mn>11</mml:mn>
+</mml:mrow>
+</mml:msub>
+</mml:mrow>
+</mml:mtd>
+<mml:mtd>
+<mml:mrow>
+<mml:msub>
+<mml:mi>y</mml:mi>
+<mml:mrow>
+<mml:mn>12</mml:mn>
+</mml:mrow>
+</mml:msub>
+</mml:mrow>
+</mml:mtd>
+<mml:mtd>
+<mml:mo>&#x22EF;</mml:mo>
+</mml:mtd>
+<mml:mtd>
+<mml:mrow>
+<mml:msub>
+<mml:mi>y</mml:mi>
+<mml:mrow>
+<mml:mn>1</mml:mn>
+<mml:mi>m</mml:mi>
+</mml:mrow>
+</mml:msub>
+</mml:mrow>
+</mml:mtd>
+</mml:mtr>
+<mml:mtr>
+<mml:mtd>
+<mml:mrow>
+<mml:msub>
+<mml:mi>y</mml:mi>
+<mml:mrow>
+<mml:mn>21</mml:mn>
+</mml:mrow>
+</mml:msub>
+</mml:mrow>
+</mml:mtd>
+<mml:mtd>
+<mml:mrow>
+<mml:msub>
+<mml:mi>y</mml:mi>
+<mml:mrow>
+<mml:mn>22</mml:mn>
+</mml:mrow>
+</mml:msub>
+</mml:mrow>
+</mml:mtd>
+<mml:mtd>
+<mml:mo>&#x22EF;</mml:mo>
+</mml:mtd>
+<mml:mtd>
+<mml:mrow>
+<mml:msub>
+<mml:mi>y</mml:mi>
+<mml:mrow>
+<mml:mn>2</mml:mn>
+<mml:mi>m</mml:mi>
+</mml:mrow>
+</mml:msub>
+</mml:mrow>
+</mml:mtd>
+</mml:mtr>
+<mml:mtr>
+<mml:mtd>
+<mml:mo>&#x22EE;</mml:mo>
+</mml:mtd>
+<mml:mtd>
+<mml:mo>&#x22EE;</mml:mo>
+</mml:mtd>
+<mml:mtd>
+<mml:mo>&#x22F1;</mml:mo>
+</mml:mtd>
+<mml:mtd>
+<mml:mo>&#x22EE;</mml:mo>
+</mml:mtd>
+</mml:mtr>
+<mml:mtr>
+<mml:mtd>
+<mml:mrow>
+<mml:msub>
+<mml:mi>y</mml:mi>
+<mml:mrow>
+<mml:mi>m</mml:mi>
+<mml:mn>1</mml:mn>
+</mml:mrow>
+</mml:msub>
+</mml:mrow>
+</mml:mtd>
+<mml:mtd>
+<mml:mrow>
+<mml:msub>
+<mml:mi>y</mml:mi>
+<mml:mrow>
+<mml:mi>m</mml:mi>
+<mml:mn>2</mml:mn>
+</mml:mrow>
+</mml:msub>
+</mml:mrow>
+</mml:mtd>
+<mml:mtd>
+<mml:mo>&#x22EF;</mml:mo>
+</mml:mtd>
+<mml:mtd>
+<mml:mrow>
+<mml:msub>
+<mml:mi>y</mml:mi>
+<mml:mrow>
+<mml:mi>m</mml:mi>
+<mml:mi>m</mml:mi>
+</mml:mrow>
+</mml:msub>
+</mml:mrow>
+</mml:mtd>
+</mml:mtr>
+</mml:mtable>
+</mml:mrow>
+<mml:mo stretchy="true">&#x0029;</mml:mo>
+</mml:mrow>
+<mml:mo>,</mml:mo>
+</mml:mrow>
+</mml:math>
+</disp-formula>
+<p>where <inline-formula id="inline-formula12">
+<mml:math id="mml-inline12">
+<mml:mrow>
+<mml:msup>
+<mml:mi>x</mml:mi>
+<mml:mrow>
+<mml:mi>R</mml:mi>
+<mml:mi>S</mml:mi>
+</mml:mrow>
+</mml:msup>
+</mml:mrow>
+</mml:math>
+</inline-formula> represents the region <italic>R&#x2019;</italic>s output, which is induced by region <italic>S&#x2019;</italic>s final demand. Equation 3 can be simplified as follows:</p>
+<disp-formula id="disp-formula4">
+<label>4</label>
+<mml:math id="mml-disp4" altimg="elementa.2023.00068.eq04.tif">
+<mml:mtable columnalign="left">
+<mml:mtr>
+<mml:mtd>
+<mml:mi>x</mml:mi>
+<mml:mo>&#x003D;</mml:mo>
+<mml:msup>
+<mml:mrow>
+<mml:mo stretchy="false">&#x0028;</mml:mo>
+<mml:mi>I</mml:mi>
+<mml:mo>&#x2212;</mml:mo>
+<mml:mi>A</mml:mi>
+<mml:mo stretchy="false">&#x0029;</mml:mo>
+</mml:mrow>
+<mml:mrow>
+<mml:mo>&#x2212;</mml:mo>
+<mml:mn>1</mml:mn>
+</mml:mrow>
+</mml:msup>
+<mml:mi>y</mml:mi>
+<mml:mo>,</mml:mo>
+</mml:mtd>
+</mml:mtr>
+<mml:mtr>
+<mml:mtd>
+<mml:mi>x</mml:mi>
+<mml:mo>&#x003D;</mml:mo>
+<mml:mi>L</mml:mi>
+<mml:mi>y</mml:mi>
+<mml:mo>.</mml:mo>
+</mml:mtd>
+</mml:mtr>
+</mml:mtable>
+</mml:math>
+</disp-formula>
+<p>The element of Leontief matrix <inline-formula id="inline-formula13">
+<mml:math id="mml-inline13">
+<mml:mrow>
+<mml:msubsup>
+<mml:mi>l</mml:mi>
+<mml:mrow>
+<mml:mi>i</mml:mi>
+<mml:mi>j</mml:mi>
+</mml:mrow>
+<mml:mrow>
+<mml:mi>R</mml:mi>
+<mml:mi>S</mml:mi>
+</mml:mrow>
+</mml:msubsup>
+</mml:mrow>
+</mml:math>
+</inline-formula>represents the amount of output requirement of sector <italic>i</italic> in region <italic>R</italic> required to meet the final consumption demand for final product <italic>j</italic> produced in region <italic>S</italic>. Let <inline-formula id="inline-formula14">
+<mml:math id="mml-inline14">
+<mml:mrow>
+<mml:msubsup>
+<mml:mi>g</mml:mi>
+<mml:mi>i</mml:mi>
+<mml:mi>R</mml:mi>
+</mml:msubsup>
+</mml:mrow>
+</mml:math>
+</inline-formula> be the per unit production emission intensities of sector <italic>i</italic> of region <italic>R</italic>. <inline-formula id="inline-formula15">
+<mml:math id="mml-inline15">
+<mml:mrow>
+<mml:msub>
+<mml:mrow>
+<mml:mstyle displaystyle="true">
+<mml:mo>&#x2211;</mml:mo>
+</mml:mstyle>
+</mml:mrow>
+<mml:mi>R</mml:mi>
+</mml:msub>
+</mml:mrow>
+<mml:mrow>
+<mml:msub>
+<mml:mrow>
+<mml:mstyle displaystyle="true">
+<mml:mo>&#x2211;</mml:mo>
+</mml:mstyle>
+</mml:mrow>
+<mml:mrow>
+<mml:mi>i</mml:mi>
+<mml:msubsup>
+<mml:mi>g</mml:mi>
+<mml:mi>i</mml:mi>
+<mml:mi mathvariant="italic">R</mml:mi>
+</mml:msubsup>
+<mml:msubsup>
+<mml:mi>l</mml:mi>
+<mml:mrow>
+<mml:mi>i</mml:mi>
+<mml:mi>j</mml:mi>
+</mml:mrow>
+<mml:mrow>
+<mml:mi>R</mml:mi>
+<mml:mi>S</mml:mi>
+</mml:mrow>
+</mml:msubsup>
+</mml:mrow>
+</mml:msub>
+</mml:mrow>
+</mml:math>
+</inline-formula> emission multiplier indicates how much pollution is generated globally for every US&#x0024;1 in consumer demand for the final product <italic>j</italic> manufactured in region <italic>S</italic>. The PBA of region <italic>R</italic> is given as:</p>
+<disp-formula id="disp-formula5">
+<mml:math id="mml-disp5" altimg="elementa.2023.00068.eq05.tif">
+<mml:mrow>
+<mml:msup>
+<mml:mrow>
+<mml:mtext>PBA</mml:mtext>
+</mml:mrow>
+<mml:mi>R</mml:mi>
+</mml:msup>
+<mml:mo>&#x003D;</mml:mo>
+<mml:mstyle displaystyle="true">
+<mml:munder>
+<mml:mo>&#x2211;</mml:mo>
+<mml:mi>i</mml:mi>
+</mml:munder>
+<mml:mrow>
+<mml:msubsup>
+<mml:mi>g</mml:mi>
+<mml:mi>i</mml:mi>
+<mml:mi>R</mml:mi>
+</mml:msubsup>
+</mml:mrow>
+</mml:mstyle>
+<mml:msubsup>
+<mml:mi>x</mml:mi>
+<mml:mi>i</mml:mi>
+<mml:mi>R</mml:mi>
+</mml:msubsup>
+<mml:mo>&#x003D;</mml:mo>
+<mml:mstyle displaystyle="true">
+<mml:munder>
+<mml:mo>&#x2211;</mml:mo>
+<mml:mi>i</mml:mi>
+</mml:munder>
+<mml:mrow>
+<mml:msubsup>
+<mml:mi>g</mml:mi>
+<mml:mi>i</mml:mi>
+<mml:mi>R</mml:mi>
+</mml:msubsup>
+<mml:mo stretchy="false">&#x0028;</mml:mo>
+<mml:mstyle displaystyle="true">
+<mml:munder>
+<mml:mo>&#x2211;</mml:mo>
+<mml:mi>T</mml:mi>
+</mml:munder>
+<mml:mrow>
+<mml:msubsup>
+<mml:mi>x</mml:mi>
+<mml:mi>i</mml:mi>
+<mml:mrow>
+<mml:mi>R</mml:mi>
+<mml:mi>S</mml:mi>
+</mml:mrow>
+</mml:msubsup>
+<mml:mo stretchy="false">&#x0029;</mml:mo>
+</mml:mrow>
+</mml:mstyle>
+</mml:mrow>
+</mml:mstyle>
+<mml:mo>,</mml:mo>
+</mml:mrow>
+</mml:math>
+</disp-formula>
+<p>where <inline-formula id="inline-formula16">
+<mml:math id="mml-inline16">
+<mml:mrow>
+<mml:msubsup>
+<mml:mi>x</mml:mi>
+<mml:mi>i</mml:mi>
+<mml:mi>R</mml:mi>
+</mml:msubsup>
+</mml:mrow>
+</mml:math>
+</inline-formula> represents the output of sector <italic>i</italic> in region <italic>R</italic> and <inline-formula id="inline-formula17">
+<mml:math id="mml-inline17">
+<mml:mrow>
+<mml:msubsup>
+<mml:mi>x</mml:mi>
+<mml:mi>i</mml:mi>
+<mml:mrow>
+<mml:mi mathvariant="italic">R</mml:mi>
+<mml:mi>T</mml:mi>
+</mml:mrow>
+</mml:msubsup>
+</mml:mrow>
+</mml:math>
+</inline-formula> represents the output of sector <italic>i</italic> in region <italic>R</italic> that is embodied in all final consumer demand in region <italic>S</italic>. The CBA of region <italic>R</italic> is given as:</p>
+<disp-formula id="disp-formula6">
+<mml:math id="mml-disp6" altimg="elementa.2023.00068.eq06.tif">
+<mml:mrow>
+<mml:msup>
+<mml:mrow>
+<mml:mtext>CBA</mml:mtext>
+</mml:mrow>
+<mml:mi>R</mml:mi>
+</mml:msup>
+<mml:mo>&#x003D;</mml:mo>
+<mml:mstyle displaystyle="true">
+<mml:munder>
+<mml:mo>&#x2211;</mml:mo>
+<mml:mi>T</mml:mi>
+</mml:munder>
+<mml:mrow>
+<mml:mstyle displaystyle="true">
+<mml:munder>
+<mml:mo>&#x2211;</mml:mo>
+<mml:mi>i</mml:mi>
+</mml:munder>
+<mml:mrow>
+<mml:msubsup>
+<mml:mi>g</mml:mi>
+<mml:mi>i</mml:mi>
+<mml:mi>T</mml:mi>
+</mml:msubsup>
+</mml:mrow>
+</mml:mstyle>
+</mml:mrow>
+</mml:mstyle>
+<mml:msubsup>
+<mml:mi>x</mml:mi>
+<mml:mi>i</mml:mi>
+<mml:mrow>
+<mml:mi>T</mml:mi>
+<mml:mi>R</mml:mi>
+</mml:mrow>
+</mml:msubsup>
+<mml:mo>&#x003D;</mml:mo>
+<mml:msup>
+<mml:mrow>
+<mml:mtext>PBA</mml:mtext>
+</mml:mrow>
+<mml:mi>R</mml:mi>
+</mml:msup>
+<mml:mo>&#x2212;</mml:mo>
+<mml:mstyle displaystyle="true">
+<mml:munder>
+<mml:mo>&#x2211;</mml:mo>
+<mml:mrow>
+<mml:mi>T</mml:mi>
+<mml:mo>&#x2260;</mml:mo>
+<mml:mi>R</mml:mi>
+</mml:mrow>
+</mml:munder>
+<mml:mrow>
+<mml:mstyle displaystyle="true">
+<mml:munder>
+<mml:mo>&#x2211;</mml:mo>
+<mml:mi>i</mml:mi>
+</mml:munder>
+<mml:mrow>
+<mml:msubsup>
+<mml:mi>g</mml:mi>
+<mml:mi>i</mml:mi>
+<mml:mi>R</mml:mi>
+</mml:msubsup>
+</mml:mrow>
+</mml:mstyle>
+</mml:mrow>
+</mml:mstyle>
+<mml:msubsup>
+<mml:mi>x</mml:mi>
+<mml:mi>i</mml:mi>
+<mml:mrow>
+<mml:mi>R</mml:mi>
+<mml:mi>T</mml:mi>
+</mml:mrow>
+</mml:msubsup>
+<mml:mo>&#x002B;</mml:mo>
+<mml:mstyle displaystyle="true">
+<mml:munder>
+<mml:mo>&#x2211;</mml:mo>
+<mml:mrow>
+<mml:mi>T</mml:mi>
+<mml:mo>&#x2260;</mml:mo>
+<mml:mi>R</mml:mi>
+</mml:mrow>
+</mml:munder>
+<mml:mrow>
+<mml:mstyle displaystyle="true">
+<mml:munder>
+<mml:mo>&#x2211;</mml:mo>
+<mml:mi>i</mml:mi>
+</mml:munder>
+<mml:mrow>
+<mml:msubsup>
+<mml:mi>g</mml:mi>
+<mml:mi>i</mml:mi>
+<mml:mi>T</mml:mi>
+</mml:msubsup>
+</mml:mrow>
+</mml:mstyle>
+</mml:mrow>
+</mml:mstyle>
+<mml:msubsup>
+<mml:mi>x</mml:mi>
+<mml:mi>i</mml:mi>
+<mml:mrow>
+<mml:mi>T</mml:mi>
+<mml:mi>R</mml:mi>
+</mml:mrow>
+</mml:msubsup>
+<mml:mo>.</mml:mo>
+</mml:mrow>
+</mml:math>
+</disp-formula>
+<p>To put it simply, CBA takes into account all &#x0028;both domestic and imported&#x0029; emissions that are emitted to satisfy its domestic final emissions demand.</p>
+</sec>
+<sec id="s4">
+<title>2.2. Technology-adjusted CBA &#x0028;TCBA&#x0029;</title>
+<p>Despite the fact that both PBA and CBA have been utilized extensively for estimating embodied emissions in trade and tracing the effectiveness of climate mitigation policies, their depictions of emissions along the supply chain differ when exports and imports are considered. However, these 2 approaches continue to be criticized &#x0028;<xref ref-type="bibr" rid="ref13">Jiborn et al., 2018</xref>&#x0029;. It has been argued that neither PBA nor CBA takes into account the differences between a country&#x2019;s emission intensities and those of its trading partners or the rest of the world. More importantly, without taking into account the emission intensities across countries, CBA would disregard or overlook the amount of emissions an importer would emit if the same imported good was produced domestically &#x0028;<xref ref-type="bibr" rid="ref11">Jakob and Marschinski, 2013</xref>&#x0029;. As a result, the CBA may be misleading by treating the emission intensities of importers and exporters similarly and disregarding their differences in emission intensities, raising new questions about emissions transfer via regional or international trade. For example, what if one country produces the same amount of goods in question with lower emissions than another, and what effect would this have on overall emissions? In such a case, exports from a lower emission intensity country to a higher emission intensity country would reduce overall emissions, while the latter country would avoid domestic emissions through imports &#x0028;<xref ref-type="bibr" rid="ref13">Jiborn et al., 2018</xref>&#x0029;.</p>
+<p>Given the fact a country is not rewarded under CBA for cleaning up its exporting sectors and trade that may contribute to more carbon-efficient production is also punished. In light of these unfavorable characteristics of CBA, there is a need for more refined accounting approaches that can overcome the aforementioned CBA biases and capture and incorporate the complexities of global trade relations &#x0028;<xref ref-type="bibr" rid="ref12">Jakob et al., 2014</xref>&#x0029;. <xref ref-type="bibr" rid="ref16">Kander et al. &#x0028;2016&#x0029;</xref> developed a new accounting device that considers technological differences between export sectors. Their TCBA scheme aims to better measure a country&#x2019;s export impact on global emissions by substituting its export-related domestic emissions with the global average. The rationale behind TCBA is that it will provide a precise estimate of the amount of emissions saved or produced if the goods or services in question are produced using the world-average technology &#x0028;<xref ref-type="bibr" rid="ref8">Domingos et al., 2016</xref>&#x0029;. TCBA estimation differs from CBA estimation in that the former scheme accounts for technological differences between countries by subtracting export-related emissions from the global average emission intensity of the relevant sector. Thus, TCBA replaces the exporter&#x2019;s domestic emissions coefficient <inline-formula id="inline-formula18">
+<mml:math id="mml-inline18">
+<mml:mrow>
+<mml:mo stretchy="false">&#x0028;</mml:mo>
+<mml:msubsup>
+<mml:mi>g</mml:mi>
+<mml:mi>i</mml:mi>
+<mml:mi>R</mml:mi>
+</mml:msubsup>
+<mml:mo stretchy="false">&#x0029;</mml:mo>
+</mml:mrow>
+</mml:math>
+</inline-formula> with a weighted global average emissions multiplier <inline-formula id="inline-formula19">
+<mml:math id="mml-inline19">
+<mml:mrow>
+<mml:mo stretchy="false">&#x0028;</mml:mo>
+<mml:msub>
+<mml:mover accent="true">
+<mml:mi>g</mml:mi>
+<mml:mo>&#x00AF;</mml:mo>
+</mml:mover>
+<mml:mi>i</mml:mi>
+</mml:msub>
+<mml:mo stretchy="false">&#x0029;</mml:mo>
+</mml:mrow>
+</mml:math>
+</inline-formula> for each sector. The multiplier is computed as follows:</p>
+<disp-formula id="disp-formula7">
+<mml:math id="mml-disp7" altimg="elementa.2023.00068.eq07.tif">
+<mml:mrow>
+<mml:msub>
+<mml:mover accent="true">
+<mml:mi>g</mml:mi>
+<mml:mo>&#x00AF;</mml:mo>
+</mml:mover>
+<mml:mi>i</mml:mi>
+</mml:msub>
+<mml:mo>&#x003D;</mml:mo>
+<mml:mfrac>
+<mml:mrow>
+<mml:mstyle displaystyle="true">
+<mml:msub>
+<mml:mo>&#x2211;</mml:mo>
+<mml:mi>S</mml:mi>
+</mml:msub>
+<mml:mrow>
+<mml:mstyle displaystyle="true">
+<mml:msub>
+<mml:mo>&#x2211;</mml:mo>
+<mml:mrow>
+<mml:mi>T</mml:mi>
+<mml:mo>&#x2260;</mml:mo>
+<mml:mi>S</mml:mi>
+</mml:mrow>
+</mml:msub>
+<mml:mrow>
+<mml:msubsup>
+<mml:mi mathvariant="italic">g</mml:mi>
+<mml:mi>i</mml:mi>
+<mml:mi>S</mml:mi>
+</mml:msubsup>
+</mml:mrow>
+</mml:mstyle>
+</mml:mrow>
+</mml:mstyle>
+<mml:msubsup>
+<mml:mi>x</mml:mi>
+<mml:mi>i</mml:mi>
+<mml:mrow>
+<mml:mi>S</mml:mi>
+<mml:mi>T</mml:mi>
+</mml:mrow>
+</mml:msubsup>
+</mml:mrow>
+<mml:mrow>
+<mml:mstyle displaystyle="true">
+<mml:msub>
+<mml:mo>&#x2211;</mml:mo>
+<mml:mi>S</mml:mi>
+</mml:msub>
+<mml:mrow>
+<mml:mstyle displaystyle="true">
+<mml:msub>
+<mml:mo>&#x2211;</mml:mo>
+<mml:mrow>
+<mml:mi>T</mml:mi>
+<mml:mo>&#x2260;</mml:mo>
+<mml:mi>S</mml:mi>
+</mml:mrow>
+</mml:msub>
+<mml:mrow>
+<mml:msubsup>
+<mml:mi>x</mml:mi>
+<mml:mi>i</mml:mi>
+<mml:mrow>
+<mml:mi>S</mml:mi>
+<mml:mi>T</mml:mi>
+</mml:mrow>
+</mml:msubsup>
+</mml:mrow>
+</mml:mstyle>
+</mml:mrow>
+</mml:mstyle>
+</mml:mrow>
+</mml:mfrac>
+<mml:mo>.</mml:mo>
+</mml:mrow>
+</mml:math>
+</disp-formula>
+<p>This yields,</p>
+<disp-formula id="disp-formula8">
+<mml:math id="mml-disp8" altimg="elementa.2023.00068.eq08.tif">
+<mml:mrow>
+<mml:msup>
+<mml:mrow>
+<mml:mtext>TCBA</mml:mtext>
+</mml:mrow>
+<mml:mi>R</mml:mi>
+</mml:msup>
+<mml:mo>&#x003D;</mml:mo>
+<mml:msup>
+<mml:mrow>
+<mml:mtext>PBA</mml:mtext>
+</mml:mrow>
+<mml:mi>R</mml:mi>
+</mml:msup>
+<mml:mo>&#x2212;</mml:mo>
+<mml:mstyle displaystyle="true">
+<mml:munder>
+<mml:mo>&#x2211;</mml:mo>
+<mml:mrow>
+<mml:mi>T</mml:mi>
+<mml:mo>&#x2260;</mml:mo>
+<mml:mi>R</mml:mi>
+</mml:mrow>
+</mml:munder>
+<mml:mrow>
+<mml:mstyle displaystyle="true">
+<mml:munder>
+<mml:mo>&#x2211;</mml:mo>
+<mml:mi>i</mml:mi>
+</mml:munder>
+<mml:mrow>
+<mml:msub>
+<mml:mover accent="true">
+<mml:mi>g</mml:mi>
+<mml:mo>&#x00AF;</mml:mo>
+</mml:mover>
+<mml:mi>i</mml:mi>
+</mml:msub>
+</mml:mrow>
+</mml:mstyle>
+</mml:mrow>
+</mml:mstyle>
+<mml:msubsup>
+<mml:mi mathvariant="italic">x</mml:mi>
+<mml:mi>i</mml:mi>
+<mml:mrow>
+<mml:mi>R</mml:mi>
+<mml:mi>T</mml:mi>
+</mml:mrow>
+</mml:msubsup>
+<mml:mo>&#x002B;</mml:mo>
+<mml:mstyle displaystyle="true">
+<mml:munder>
+<mml:mo>&#x2211;</mml:mo>
+<mml:mrow>
+<mml:mi>T</mml:mi>
+<mml:mo>&#x2260;</mml:mo>
+<mml:mi>R</mml:mi>
+</mml:mrow>
+</mml:munder>
+<mml:mrow>
+<mml:mstyle displaystyle="true">
+<mml:munder>
+<mml:mo>&#x2211;</mml:mo>
+<mml:mi>i</mml:mi>
+</mml:munder>
+<mml:mrow>
+<mml:msubsup>
+<mml:mi>g</mml:mi>
+<mml:mi>i</mml:mi>
+<mml:mi>T</mml:mi>
+</mml:msubsup>
+</mml:mrow>
+</mml:mstyle>
+</mml:mrow>
+</mml:mstyle>
+<mml:msubsup>
+<mml:mi>x</mml:mi>
+<mml:mi>i</mml:mi>
+<mml:mrow>
+<mml:mi>T</mml:mi>
+<mml:mi>R</mml:mi>
+</mml:mrow>
+</mml:msubsup>
+<mml:mo>.</mml:mo>
+</mml:mrow>
+</mml:math>
+</disp-formula>
+</sec>
+<sec id="s5">
+<title>2.3. Data sources and description</title>
+<p>For I&#x2013;O analysis, several MRIO databases are available, including EORA, EXIOBASE, the Global Trade Analysis Project &#x0028;GTAP&#x0029;, the Organization for Economic Cooperation and Development, the Asian Development Bank &#x0028;ADB&#x0029;, and the World Input&#x2013;Output Database &#x0028;WIOD&#x0029;. The coverage of these databases varies by country or region, sector, and time period. For example, the WIOD database covered 35 sectors and 41 regions between 1995 and 2011, while GTAP covered 140 countries and 56 sectors for specific years. By contrast, the EORA database contains 26 industries and 189 countries. We therefore utilize the EORA database due to its comprehensive coverage of 132 BRI countries from 1995 to 2015. During the process, we divided the EORA table into 2 groups: BRI and non-BRI. The BRI regions are subdivided into 9 countries or regions based on their geographical location and climate mitigation commitments. These regions consist of BRI Annex B countries with Kyoto commitments or European countries under EU-ETS &#x0028;21&#x0029;, China, Southeast Asian countries &#x0028;11 countries&#x0029;, South Asian countries &#x0028;7 countries&#x0029;, Central Asian &#x0028;5&#x0029; countries, Mongolia-Russia, West Asia and African &#x0028;58&#x0029; countries, Latin and South American &#x0028;16 countries&#x0029;, and BRI-rest of the world &#x0028;BRI-ROW&#x0029; countries &#x0028;13 countries&#x0029; &#x0028;11&#x0029;, while the non-BRI region is divided into 2 subregions: non-BRI Annex B countries with Kyoto commitments or European countries with EU-ETS or domestic ETS &#x0028;16&#x0029; and non-BRI ROW. Tables S1 and S2 detail the classification of BRI and non-BRI countries, respectively.</p>
+</sec>
+</sec>
+<sec id="s6">
+<title>3. Results and discussions</title>
+<sec id="s7">
+<title>3.1. Conventional PBA and CBA schemes</title>
+<p>We first examine overall CO<sub>2</sub> emissions from Annex B and non-Annex B countries&#x2019; production and consumption ends. We then examine the transfers of emissions between &#x0028;BRI and non-BRI&#x0029; Annex B and non-Annex B countries, as well as within the BRI regions. The reported results in <xref ref-type="table" rid="table1">Table 1</xref> reveal that global CO<sub>2</sub> emissions witnessed a notable increase, rising from 24.36 Gt in 1995 to 37.41 Gt in 2015. Significant changes have occurred in the location of CO<sub>2</sub> emissions stemming from production- and consumption-ends over the last 2 decades. On the one hand, Annex B countries have successfully stabilized their domestic CO<sub>2</sub> emissions alongside their PBE, reducing both to 1995 levels. Notably, the PBE of Annex B countries decreased from 13 Gt in 1995 to 12.4 Gt in 2015. Conversely, the PBE of Annex B countries, which consistently exceeded their PBE, increased from 13.85 Gt in 1995 to 14.6 Gt in 2015. On the other hand, non-Annex B countries experienced a more than twofold increase in both their PBE and CBE between 1995 and 2015. Their PBE increased from 11.5 Gt in 1995 to 25.06 Gt in 2015, while their CBE increased from 10.5 Gt to 22.8 Gt. It is worth noting that developed economies have kept their emissions under control and their CBE stable from 1995 to 2015. In contrast, developing countries exhibited an upward trend in both PBE and CBE, indicating their growing emissions.</p>
+<table-wrap id="table1" position="float">
+<label>Table 1.</label>
+<caption>
+<p>CBE, PBE, and trade-related emission transfers in Annex B and non-Annex B countries 1995, 2007, and 2015 &#x0028;Gt&#x0029;</p>
+</caption>
+<table>
+<thead>
+<tr>
+<th>
+<bold>Region</bold>
+</th>
+<th>
+<bold>Component</bold>
+</th>
+<th/>
+<th/>
+<th/>
+</tr>
+<tr>
+<th>
+<bold>Annex B</bold>
+</th>
+<th/>
+<th>
+<bold>1995</bold>
+</th>
+<th>
+<bold>2007</bold>
+</th>
+<th>
+<bold>2015</bold>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="2">
+<bold>Non-BRI Annex B &#x0028;A1&#x0029;</bold>
+</td>
+<td>&#x2003;</td>
+<td>&#x2003;</td>
+<td>&#x2003;</td>
+</tr>
+<tr>
+<td>Domestic emissions</td>
+<td>Non-BRI Annex B domestic emissions &#x0028;A1dom&#x0029;</td>
+<td>9.998</td>
+<td>10.741</td>
+<td>9.686</td>
+</tr>
+<tr>
+<td rowspan="3">&#x2003;Exports to</td>
+<td>BRI Annex B &#x0028;A1toB1&#x0029;</td>
+<td>0.167</td>
+<td>0.227</td>
+<td>0.176</td>
+</tr>
+<tr>
+<td>Non-Annex B BRI &#x0028;A1toB2&#x0029;</td>
+<td>0.318</td>
+<td>0.438</td>
+<td>0.520</td>
+</tr>
+<tr>
+<td>ROW &#x0028;A1toROW&#x0029;</td>
+<td>0.163</td>
+<td>0.188</td>
+<td>0.188</td>
+</tr>
+<tr>
+<td>&#x2003;PBA</td>
+<td>PBEA1 &#x003D; A1dom &#x002B; A1toB1 &#x002B; A1toB2 &#x002B; A1toROW</td>
+<td>10.647</td>
+<td>11.593</td>
+<td>10.570</td>
+</tr>
+<tr>
+<td rowspan="3">&#x2003;Imports from</td>
+<td>BRI Annex B &#x0028;B1toA1&#x0029;</td>
+<td>0.365</td>
+<td>0.358</td>
+<td>0.295</td>
+</tr>
+<tr>
+<td>Non-Annex B BRI &#x0028;B2toA1&#x0029;</td>
+<td>1.206</td>
+<td>2.507</td>
+<td>2.287</td>
+</tr>
+<tr>
+<td>ROW &#x0028;ROWtoA1&#x0029;</td>
+<td>0.213</td>
+<td>0.430</td>
+<td>0.463</td>
+</tr>
+<tr>
+<td>&#x2003;CBA</td>
+<td>CBEA1 &#x003D; A1dom &#x002B; B1toA1 &#x002B; B2toA1 &#x002B; ROWtoA1</td>
+<td>11.782</td>
+<td>14.035</td>
+<td>12.731</td>
+</tr>
+<tr>
+<td>&#x2003;</td>
+<td>&#x2003;</td>
+<td>&#x2003;</td>
+<td>&#x2003;</td>
+<td>&#x2003;</td>
+</tr>
+<tr>
+<td colspan="2">
+<bold>BRI Annex B &#x0028;B1&#x0029;</bold>
+</td>
+<td>&#x2003;</td>
+<td>&#x2003;</td>
+<td>&#x2003;</td>
+</tr>
+<tr>
+<td>Domestic emissions</td>
+<td>BRI Annex B domestic emissions &#x0028;B1dom&#x0029;</td>
+<td>1.706</td>
+<td>1.634</td>
+<td>1.249</td>
+</tr>
+<tr>
+<td rowspan="3">&#x2003;Exports to</td>
+<td>Non-BRI Annex B &#x0028;B1toA1&#x0029;</td>
+<td>0.365</td>
+<td>0.358</td>
+<td>0.295</td>
+</tr>
+<tr>
+<td>From BRI Annex B to non-annex B BRI &#x0028;B1toB2&#x0029;</td>
+<td>0.209</td>
+<td>0.226</td>
+<td>0.200</td>
+</tr>
+<tr>
+<td>ROW &#x0028;B1toROW&#x0029;</td>
+<td>0.030</td>
+<td>0.032</td>
+<td>0.035</td>
+</tr>
+<tr>
+<td>&#x2003;PBA</td>
+<td>PBEB1 &#x003D; B1dom &#x002B; B1toA1 &#x002B; B1toB2 &#x002B;B1toROW</td>
+<td>2.310</td>
+<td>2.250</td>
+<td>1.779</td>
+</tr>
+<tr>
+<td rowspan="3">&#x2003;Imports from</td>
+<td>Non-BRI Annex B &#x0028;A1toB1&#x0029;</td>
+<td>0.167</td>
+<td>0.227</td>
+<td>0.176</td>
+</tr>
+<tr>
+<td>Non-Annex B BRI &#x0028;B2toB1&#x0029;</td>
+<td>0.183</td>
+<td>0.426</td>
+<td>0.381</td>
+</tr>
+<tr>
+<td>ROW &#x0028;ROWtoB1&#x0029;</td>
+<td>0.014</td>
+<td>0.039</td>
+<td>0.046</td>
+</tr>
+<tr>
+<td>&#x2003;CBA</td>
+<td>CBEAB2 &#x003D; B1dom &#x002B; A1toB1 &#x002B; B2toB1 &#x002B; ROWtoB1</td>
+<td>2.070</td>
+<td>2.326</td>
+<td>1.851</td>
+</tr>
+<tr>
+<td colspan="2">
+<bold>Non-Annex B countries</bold>
+</td>
+<td>&#x2003;</td>
+<td>&#x2003;</td>
+<td>&#x2003;</td>
+</tr>
+<tr>
+<td>Non-Annex B BRI &#x0028;B2&#x0029;</td>
+<td>&#x2003;</td>
+<td>&#x2003;</td>
+<td>&#x2003;</td>
+<td>&#x2003;</td>
+</tr>
+<tr>
+<td>Domestic emissions</td>
+<td>Non-Annex B BRI domestic emissions &#x0028;B2dom&#x0029;</td>
+<td>7.327</td>
+<td>11.713</td>
+<td>16.239</td>
+</tr>
+<tr>
+<td rowspan="3">&#x2003;Exports to</td>
+<td>Within non-Annex B BRI &#x0028;B2toB2&#x0029;</td>
+<td>0.375</td>
+<td>0.892</td>
+<td>1.192</td>
+</tr>
+<tr>
+<td>Non-BRI Annex B &#x0028;B2toA1&#x0029;</td>
+<td>1.206</td>
+<td>2.507</td>
+<td>2.287</td>
+</tr>
+<tr>
+<td>BRI Annex B &#x0028;B2toB1&#x0029;</td>
+<td>0.183</td>
+<td>0.426</td>
+<td>0.381</td>
+</tr>
+<tr>
+<td>&#x2003;</td>
+<td>ROW &#x0028;B2toROW&#x0029;</td>
+<td>0.255</td>
+<td>0.534</td>
+<td>0.611</td>
+</tr>
+<tr>
+<td>&#x2003;PBA</td>
+<td>PBEB2 &#x003D; B2dom &#x002B; B2toB2&#x002B; B2toA1 &#x002B; B2toB1 &#x002B; B2toROW</td>
+<td>9.345</td>
+<td>16.073</td>
+<td>20.709</td>
+</tr>
+<tr>
+<td rowspan="3">&#x2003;Imports from</td>
+<td>Non-BRI Annex B &#x0028;A1toB2&#x0029;</td>
+<td>0.318</td>
+<td>0.438</td>
+<td>0.520</td>
+</tr>
+<tr>
+<td>BRI Annex B &#x0028;B1toB2&#x0029;</td>
+<td>0.209</td>
+<td>0.226</td>
+<td>0.200</td>
+</tr>
+<tr>
+<td>ROW &#x0028;ROWtoB2&#x0029;</td>
+<td>0.077</td>
+<td>0.211</td>
+<td>0.348</td>
+</tr>
+<tr>
+<td>&#x2003;CBA</td>
+<td>CBEB2 &#x003D; B2dom &#x002B; B2B2 &#x002B; A1toB2 &#x002B; B1toB2 &#x002B; ROWtoB2</td>
+<td>8.306</td>
+<td>13.480</td>
+<td>18.499</td>
+</tr>
+<tr>
+<td colspan="5">ROW</td>
+</tr>
+<tr>
+<td>Domestic emissions</td>
+<td>ROW domestic emissions &#x0028;ROWdom&#x0029;</td>
+<td>1.753</td>
+<td>2.631</td>
+<td>3.495</td>
+</tr>
+<tr>
+<td rowspan="3">&#x2003;Exports to</td>
+<td>Non-BRI Annex B &#x0028;ROWtoA1&#x0029;</td>
+<td>0.213</td>
+<td>0.430</td>
+<td>0.463</td>
+</tr>
+<tr>
+<td>BRI Annex B &#x0028;ROWtoB1&#x0029;</td>
+<td>0.014</td>
+<td>0.039</td>
+<td>0.046</td>
+</tr>
+<tr>
+<td>Non-Annex B BRI &#x0028;ROWtoB2&#x0029;</td>
+<td>0.077</td>
+<td>0.211</td>
+<td>0.348</td>
+</tr>
+<tr>
+<td>&#x2003;PBA</td>
+<td>PBEROW &#x003D; ROWdom &#x002B; ROWtoA1 &#x002B; ROWtoB1 &#x002B; ROWtoB2</td>
+<td>2.058</td>
+<td>3.311</td>
+<td>4.352</td>
+</tr>
+<tr>
+<td rowspan="3">&#x2003;Imports from</td>
+<td>Non-BRI Annex B &#x0028;A1toROW&#x0029;</td>
+<td>0.163</td>
+<td>0.188</td>
+<td>0.176</td>
+</tr>
+<tr>
+<td>BRI Annex B &#x0028;B1toROW&#x0029;</td>
+<td>0.030</td>
+<td>0.032</td>
+<td>0.035</td>
+</tr>
+<tr>
+<td>Non-Annex B BRI &#x0028;B2toROW&#x0029;</td>
+<td>0.255</td>
+<td>0.534</td>
+<td>0.611</td>
+</tr>
+<tr>
+<td>&#x2003;CBA</td>
+<td>CBEROW &#x003D; ROWdom &#x002B; A1toROW &#x002B; B1toROW &#x002B; B2toROW</td>
+<td>2.201</td>
+<td>3.385</td>
+<td>4.317</td>
+</tr>
+<tr>
+<td>&#x2003;Trade total</td>
+<td>Global traded emissions</td>
+<td>3.576</td>
+<td>6.506</td>
+<td>6.742</td>
+</tr>
+<tr>
+<td>&#x2003;CBE</td>
+<td>Global emissions</td>
+<td>24.359</td>
+<td>33.226</td>
+<td>37.410</td>
+</tr>
+</tbody>
+</table>
+<table-wrap-foot>
+<fn id="table-fn1">
+<p>BRI &#x003D; Belt and Road Initiative; CBE &#x003D; consumption-based emission; PBE &#x003D; production-based emission; ROW &#x003D; rest of the world; PBA &#x003D; production-based emission accounting; CBA &#x003D; consumption-based emission accounting.</p>
+</fn>
+<fn id="table-fn2">
+<p>Source: Calculated by the authors.</p>
+</fn>
+</table-wrap-foot>
+</table-wrap>
+<p>We find that trade-related emissions increased from 3.6 Gt in 1995 to 6.8 Gt in 2015, accounting for 15&#x0025; of global emissions in 1995 and 18&#x0025; in 2015. When considering emission transfers between the United States and other Annex B countries, trade-related emissions rose from 4.12 Gt &#x0028;17&#x0025;&#x0029; in 1995 to 7.23 Gt &#x0028;20&#x0025;&#x0029; in 2015. During the study period, Annex B to non-Annex B emission transfers increased from 0.72 Gt to 0.94 Gt. In contrast, emissions transfer from non-Annex B to Annex B countries increased from 1.6 Gt in 1995 to 3.18 Gt in 2015, accounting for three-fourths of Annex B countries&#x2019; imported emissions in 1995 and 87&#x0025; in 2015. These results demonstrate that Annex B countries have shifted their consumption-related emissions to non-Annex B &#x0028;mostly developing&#x0029; countries.</p>
+<p>In terms of the cumulative CO<sub>2</sub> emissions of the BRI regions from PBA and CBA schemes, our findings indicate that the PBE of BRI is greater than CBE, and that this trend has increased over the examined time period. The PBE of BRI regions increased from 11.66 Gt in 1995 to 22.5 Gt in 2015, while the CBE rose from 10.37 Gt in 1995 to 20.34 Gt in 2015. These findings indicate that the BRI region, despite differences between its Annex B and non-Annex B regions, has experienced significant growth in PBE emissions. In contrast, non-BRI regions &#x0028;particularly Annex B countries&#x0029; have higher CBE emissions compared to their respective PBE. The majority of BRI regions are net CO<sub>2</sub> emission producers, whereas non-BRI regions are net CO<sub>2</sub> emission consumers. Furthermore, trade-related emissions transfer from the BRI region &#x0028;to non-BRI and intra-BRI regions&#x0029; increased from 2.62 Gt in 1995 to 5.01 Gt in 2015, accounting for 3-quarters of global traded CO<sub>2</sub> emissions. Non-BRI region consumption accounted for nearly 3-quarters of BRI region emissions in 1995; however, their share fell to nearly 65&#x0025; in 2015. These findings indicate that non-BRI &#x0028;particularly, Annex B&#x0029; regions have been able to meet their Kyoto commitments by outsourcing emissions to BRI &#x0028;non-Annex B&#x0029; regions or by importing from them.</p>
+</sec>
+<sec id="s8">
+<title>3.2. Emission attribution under PBA, CBA, and TCBA schemes</title>
+<p>In the previous section, we established that Annex B countries &#x0028;both BRI and non-BRI&#x0029; are net consumers who shift their environmental burden to developing countries. While non-Annex B BRI countries are net producers that support the consumption of their developed counterparts. However, neither PBA nor CBA credited &#x0028;punished or discredited&#x0029; countries for their emission-efficient &#x0028;inefficient&#x0029; production efforts, which would reduce &#x0028;increase&#x0029; global emissions. Therefore, we employ a new accounting method, the TCBA, and compare BRI and non-BRI countries&#x2019; emission responsibility under the TCBA to both PBA and CBA, as well BEET &#x0028;balance of emissions embodied in trade&#x0029; to TBEET &#x0028;technology adjusted balance of emissions embodied in exports&#x0029; &#x0028;<xref ref-type="fig" rid="F1">Figure 1</xref> and <xref ref-type="table" rid="table2">Table 2</xref>&#x0029;.</p>
+<fig position="float" id="F1">
+<label>Figure 1.</label>
+<caption>
+<p>
+<bold>Emissions in Gt under PBA, CBA, and TCBA schemes and BEET and TBEET of Belt and Road Initiative &#x0028;BRI&#x0029; and non-BRI regions.</bold>
+</p>
+<p>The acronyms in the figure&#x2019;s legend refer to: Southeast Asia &#x0028;SEA&#x0029;, South Asia &#x0028;SA&#x0029;, Central Asia &#x0028;CA&#x0029;, Mongolia-Russia &#x0028;MR&#x0029;, West Asia and Africa &#x0028;WAAF&#x0029;, and Latin and South America &#x0028;LSA&#x0029;. PBA &#x003D; production-based emission accounting; CBA &#x003D; consumption-based emission accounting; TCBA &#x003D; technology-adjusted CBA. Source: Calculated by the authors.</p>
+</caption>
+<graphic xlink:href="elementa.2023.00068.f01.tif"/>
+</fig>
+<table-wrap id="table2" position="float">
+<label>Table 2.</label>
+<caption>
+<p>CO<sub>2</sub> emission attribution under PBA, CBA, and TCBA &#x0028;Gt&#x0029;</p>
+</caption>
+<table>
+<thead>
+<tr>
+<th/>
+<th>
+<bold>PBA</bold>
+</th>
+<th>
+<bold>CBA</bold>
+</th>
+<th>
+<bold>TCBA</bold>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="4">
+<bold>1995</bold>
+</td>
+</tr>
+<tr>
+<td>&#x2003;Non-BRI Annex B &#x0028;excluding United States&#x0029;</td>
+<td>5.04</td>
+<td>5.94</td>
+<td>5.24</td>
+</tr>
+<tr>
+<td>&#x2003;BRI Annex B</td>
+<td>2.31</td>
+<td>2.07</td>
+<td>2.25</td>
+</tr>
+<tr>
+<td>&#x2003;Non-Annex B BRI &#x0028;excluding China&#x0029;</td>
+<td>5.77</td>
+<td>5.50</td>
+<td>6.03</td>
+</tr>
+<tr>
+<td>&#x2003;China</td>
+<td>3.57</td>
+<td>2.80</td>
+<td>3.46</td>
+</tr>
+<tr>
+<td>&#x2003;United States</td>
+<td>5.61</td>
+<td>5.84</td>
+<td>5.81</td>
+</tr>
+<tr>
+<td colspan="4">
+<bold>2007</bold>
+</td>
+</tr>
+<tr>
+<td>&#x2003;Non-BRI Annex B &#x0028;excluding United States&#x0029;</td>
+<td>5.34</td>
+<td>6.53</td>
+<td>5.72</td>
+</tr>
+<tr>
+<td>&#x2003;BRI Annex B</td>
+<td>2.25</td>
+<td>2.33</td>
+<td>2.32</td>
+</tr>
+<tr>
+<td>&#x2003;Non-Annex B BRI &#x0028;excluding China&#x0029;</td>
+<td>8.31</td>
+<td>7.78</td>
+<td>8.56</td>
+</tr>
+<tr>
+<td>&#x2003;China</td>
+<td>7.78</td>
+<td>5.71</td>
+<td>7.00</td>
+</tr>
+<tr>
+<td>&#x2003;United States</td>
+<td>6.25</td>
+<td>7.51</td>
+<td>7.43</td>
+</tr>
+<tr>
+<td colspan="4">
+<bold>2015</bold>
+</td>
+</tr>
+<tr>
+<td>&#x2003;Non-BRI Annex B &#x0028;excluding United States&#x0029;</td>
+<td>4.76</td>
+<td>5.93</td>
+<td>4.94</td>
+</tr>
+<tr>
+<td>&#x2003;BRI Annex B</td>
+<td>1.78</td>
+<td>1.85</td>
+<td>1.66</td>
+</tr>
+<tr>
+<td>&#x2003;Non-Annex B BRI &#x0028;excluding China&#x0029;</td>
+<td>9.81</td>
+<td>9.23</td>
+<td>9.87</td>
+</tr>
+<tr>
+<td>&#x2003;China</td>
+<td>10.92</td>
+<td>9.29</td>
+<td>10.01</td>
+</tr>
+<tr>
+<td>&#x2003;United States</td>
+<td>5.81</td>
+<td>6.80</td>
+<td>6.72</td>
+</tr>
+</tbody>
+</table>
+<table-wrap-foot>
+<fn id="table-fn3">
+<p>BRI &#x003D; Belt and Road Initiative; PBA &#x003D; production-based emission accounting; CBA &#x003D; consumption-based emission accounting; TCBA &#x003D; technology-adjusted CBA.</p>
+</fn>
+<fn id="table-fn4">
+<p>Source: Calculated by the authors.</p>
+</fn>
+</table-wrap-foot>
+</table-wrap>
+<p>CBA and &#x0028;negative&#x0029; BEET results reveal that both BRI Annex B and non-BRI Annex B countries reduced emissions and met their Kyoto commitments by shifting environmental load to non-Annex B countries through imports &#x0028;<xref ref-type="fig" rid="F1">Figure 1a</xref> and <xref ref-type="fig" rid="F1">c</xref>&#x0029;. These results are in line with the findings of <xref ref-type="bibr" rid="ref23">Peters et al. &#x0028;2011&#x0029;</xref>, who posited that &#x0028;most&#x0029; industrialized countries outsource their emissions to developing countries. However, the TCBA schemes significantly altered these countries&#x2019; emissions responsibility as well as their emissions imports. For non-BRI Annex B countries, the TCBA falls in between PBA and CBA, whereas its attribution changed during the study period for BRI Annex B countries.<sup>
+<xref ref-type="fn" rid="fn4">4</xref>
+</sup> One major reason for the lower attribution under the TCBA scheme is that &#x0028;BRI and non-BRI&#x0029; Annex B region countries have adopted new and efficient production technologies to improve their domestic emission efficiencies. At the same time, the lower value of TBEET in comparison to BEET for non-BRI Annex B countries indicates that, after technological adjustments, these countries have lower imported emissions than BEET. In contrast, the U.S. emission responsibility under the TCBA scheme and its TBEET follows the same path as the CBA and BEET &#x0028;<xref ref-type="fig" rid="F1">Figure 1b</xref>&#x0029;. The underlying reason for such high-level emission responsibilities under the TCBA and TBEET is that carbon efficiency in the United States has changed only marginally over the last 2 decades.</p>
+<p>In the case of China, PBA &#x0028;CBA&#x0029; attributes full &#x0028;lower&#x0029; responsibility, but TCBA provides a different picture of emission responsibility to it. The TCBA places China&#x2019;s emission responsibility between PBA and CBA &#x0028;<xref ref-type="fig" rid="F1">Figure 1d</xref>&#x0029;. In other words, TCBA has assigned China lower emission responsibilities than PBA; hence, it has credited China for improvements in carbon efficiency. More importantly, the TCBA findings support the Chinese claim that carbon efficiency measures should be prioritized over absolute emission reductions. Furthermore, a higher BEET than TBEET indicates that China is a net exporter of embodied emissions, whereas a lower TBEET indicates that China&#x2019;s carbon efficiency is lower than the global average. Interestingly, even though developed countries outsource their carbon-intensive production to China, the share of embodied emissions in Chinese exports, which appears to be high &#x0028;24&#x0025; of PBA in 2015&#x0029;, is much lower after technology adjustment, down to 16&#x0025; of PBA. Hence, carbon-intensive production accounts for a significant portion of trade-related emissions in Chinese exports.</p>
+<p>For non-Annex B BRI countries, the attribution of emissions under TCBA varies considerably. For some regions &#x0028;such as Mongolia-Russia and BRI-ROW&#x0029;, TCBA follows a path comparable to PBA but higher than CBA. In other regions &#x0028;e.g., Latin and South American and Southeast Asian countries&#x0029;, TCBA follows a similar path to CBA but is higher than PBA. Moreover, TCBA attributes more emissions to other regions &#x0028;such as West Asia and African and Central Asian countries&#x0029; compared to both PBA and CBA. On the one hand, the TCBA penalizes BRI regions for carbon-intensive production &#x0028;lower carbon efficiency than the global average&#x0029;, which contributes to global warming via trade. On the other hand, it credited BRI regions with lower emission attribution for their efforts to reduce global emissions through emission-efficient production.</p>
+<p>Our results further reveal significant variations in BEET and TBEET levels within BRI regions during the study period. Latin and South American countries consistently manifested negative BEET and TBEET values, indicating that they were net importers of embodied emissions. These values showed minimal changes over the entire study period, with a more rapid decline in BEET compared to TBEET after 2006, followed by a reversal in 2013. Furthermore, after initially being a net importer of embodied emissions due to negative BEET and TBEET, Southeast Asian countries became a net exporter after 1997. Notably, the TBEET values in the region were consistently lower than BEET. This suggest that after technological adjustments, the region&#x2019;s export-related emissions declined. It also implies that low carbon efficient Southeast Asian countries&#x2019; production results in additional emissions that would not have been emitted if those countries used world-average technology. Finally, the position of BEET and TBEET in the South Asian region is distinct. Beginning with negative BEET and TBEET values, the region became a net exporter &#x0028;positive BEET&#x0029; after 1997 and reverted to a net importer in 2006. Nonetheless, the consistently negative TBEET values throughout the study period indicate that the region remained a net importer &#x0028;outsourcer&#x0029; of embodied emissions.</p>
+</sec>
+<sec id="s9">
+<title>3.3. Comparison of different accounting schemes</title>
+<p>We compare how the allocation of emission responsibilities to BRI and non-BRI regions under &#x0028;percentage of&#x0029; PBA would change if trade-related emissions under CBA and TCBA schemes were considered &#x0028;<xref ref-type="fig" rid="F2">Figure 2</xref>&#x0029;. When comparing BRI and non-BRI regions, the results indicate that the adjustments under TCBA are more varied compared to CBA. In many regions, the emissions&#x2019; responsibility assigned by TCBA is similar or close to that assigned by CBA. For example, the TCBA closely resembles the CBA for the United States, ROW, and Southeast Asian countries. In some cases, such as China and Latin and South American countries, the TCBA falls between the PBA and the CBA. Furthermore, there are a few cases where TCBA is close to PBA &#x0028;note that PBA does not require any adjustment in a few cases with a value of zero&#x0029;, such as non-BRI Annex B countries, BRI-ROW, ROW, and Mongolia-Russia. Furthermore, TCBA produces a higher absolute value &#x0028;e.g., ROW, BRI Annex B countries, and South Asian countries&#x0029; compared to CBA, and sometimes, their signs can be opposite &#x0028;e.g., BRI Annex B, West Asia and African, and Central Asian countries&#x0029;. The underlying reason for such high &#x0028;small&#x0029; allocation of trade-related emissions by the TCBA scheme is primarily attributable to countries&#x2019; low &#x0028;high&#x0029; export elasticities &#x0028;<xref ref-type="bibr" rid="ref25">Jakob et al., 2020</xref>&#x0029;.</p>
+<fig position="float" id="F2">
+<label>Figure 2.</label>
+<caption>
+<p>
+<bold>Percentage by which production-based emission accounting is adjusted if traded emissions are accounted on the basis of consumption-based emission accounting or technology-adjusted CBA</bold>.</p>
+<p>See <xref ref-type="fig" rid="F1">Figure 1</xref>&#x2019;s caption for countries/regions&#x2019; details. Source: Calculated by the authors.</p>
+</caption>
+<graphic xlink:href="elementa.2023.00068.f02.tif"/>
+</fig>
+<p>We further normalized TBEET relative to PBA from 1995 to 2015 and results are illustrated in <xref ref-type="fig" rid="F3">Figure 3</xref>. The findings suggest that normalized TBEET of non-BRI Annex B countries and the United States has remained negative over the last 2 decades. The value of normalized TBEET in the United States was significantly higher than in non-BRI Annex B countries, and the gap has been growing over time &#x0028;<xref ref-type="fig" rid="F3">Figure 3a</xref>&#x0029;. These findings reflect that the United States has been actively outsourcing its embodied emissions, whereas non-BRI Annex B countries have been making improvements to their production technologies and sourcing their consumption from other countries. In the case of BRI Annex B countries, normalized TBEET remains close to zero &#x0028;marginally positive or negative&#x0029; from 1995 to 2013. However, it turned positive after 2013 and reached its peak in 2015, reflecting BRI Annex B&#x2019;s role as a net exporter. In case of China, the normalized TBEET share to PBA ranges between 3&#x0025; and 10&#x0025;. This rising trend resumed following the global financial crisis. These findings validate the claim that China serves as the &#x201C;factory of the world.&#x201D;</p>
+<fig position="float" id="F3">
+<label>Figure 3.</label>
+<caption>
+<p>
+<bold>TBEET as a percentage of production-based emission accounting &#x0028;1995&#x2013;2015&#x0029;.</bold>
+</p>
+<p>&#x0028;a&#x0029; Annex B countries, China, and United States. &#x0028;b&#x0029; Other Belt and Road Initiative regions. See <xref ref-type="fig" rid="F1">Figure 1</xref> caption for countries/regions&#x2019; details. Source: Calculated by the authors.</p>
+</caption>
+<graphic xlink:href="elementa.2023.00068.f03.tif"/>
+</fig>
+<p>In the case of other non-Annex B BRI regions, the normalized TBEET as a share of PBA varies significantly across regions &#x0028;<xref ref-type="fig" rid="F3">Figure 3b</xref>&#x0029;. For example, Southeast Asian countries have a varying emission trade balance. Initially, they had a negative balance, indicating that they outsourced emissions, but after 1998, it turned positive, suggesting that the region became a net exporter over the sample period. In contrast, normalized TBEET of BRI-ROW underwent significant changes; it began as a net exporter and then became a net importer from 1996 to 1998 before returning to being a consistent net exporter until the end of the 2000s. The rest of the BRI regions&#x2019; normalized TBEET share to their PBA remained consistently negative over the entire study period, demonstrating their role as net importer in trade-related emission transfers.</p>
+</sec>
+<sec id="s10">
+<title>3.4. Emissions traded between BRI and non-BRI regions</title>
+<p>We assess the trade-related emission transfers between BRI and non-BRI regions, as well as between non-BRI and BRI regions &#x0028;<xref ref-type="fig" rid="F4">Figure 4a</xref>&#x0029;. Nearly 60&#x0025; of the trade-related emissions of BRI regions are linked to the consumption of non-BRI regions and have varied environmental impacts &#x0028;see also Table S3&#x0029;. For example, 55&#x0025; of export-related emissions of the BRI Annex B countries &#x0028;<xref ref-type="fig" rid="F4">Figure 4d</xref>&#x0029; went to non-BRI Annex B countries &#x0028;44&#x0025;&#x0029; and United States &#x0028;11&#x0025;&#x0029;. It is noteworthy that these exported emissions have a similar climate impact despite different production locations. The underlying reason is that BRI Annex B and the United States &#x0028;source&#x0029; and non-BRI Annex B countries &#x0028;destination&#x0029; have the same levels of technological and economic development, as well as low carbon intensities. The same holds true when emissions are transferred from non-BRI Annex B countries &#x0028;17&#x0025; of export-related emissions&#x0029; and the United States &#x0028;5&#x0025; of export-related emissions&#x0029; to BRI Annex B countries; in this case, the location of production is irrelevant.</p>
+<fig position="float" id="F4">
+<label>Figure 4.</label>
+<caption>
+<p>
+<bold>Flows of trade embodied emissions transfer in exports of Belt and Road Initiative &#x0028;BRI&#x0029; and non-BRI regions.</bold>
+</p>
+<p>&#x0028;a&#x0029; Shows the percentage flow of exported emissions in total export-related emissions of the producing or source country/region to the trading partners &#x0028;destination&#x0029;; &#x0028;b&#x0029; depicts a country&#x2019;s or region&#x2019;s consumption-related emissions, or the proportion of imported emissions sourced from trade partners; &#x0028;c&#x0029;&#x2013;&#x0028;f&#x0029; shows the percentages of exported and imported emissions of non-BRI Annex B countries &#x0028;c&#x0029;, United States &#x0028;d&#x0029;, Annex B countries &#x0028;e&#x0029;, and China &#x0028;f&#x0029; with their trading partners. Supplementary Tables S2 and S3 detail the flows of export- and import-related emissions between different trading partners. See <xref ref-type="fig" rid="F1">Figure 1</xref> caption for countries/regions&#x2019; details. Source: Calculated by the authors.</p>
+</caption>
+<graphic xlink:href="elementa.2023.00068.f04.tif"/>
+</fig>
+<p>In addition, a significant proportion of emissions produced in other non-Annex B BRI regions are attributable to the consumption of non-BRI regions, particularly non-BRI Annex B countries &#x0028;<xref ref-type="fig" rid="F4">Figure 4a</xref>&#x0029;. China exports 55&#x0025; of its total export-related emissions to non-BRI Annex B countries &#x0028;31.5&#x0025;&#x0029; and the United States &#x0028;23&#x0025;&#x0029; &#x0028;<xref ref-type="fig" rid="F4">Figure 4e</xref>&#x0029;. Other non-Annex B BRI regions &#x0028;such as Latin and South American, Southeast Asia, West Asia and African, and South Asian countries&#x0029; export between 50&#x0025; and 60&#x0025; of their emissions to non-BRI Annex B countries and the United States. In contrast, the United States and non-BRI Annex B countries exported 32&#x0025;&#x2013;35&#x0025; of their export-related emissions to non-Annex B BRI regions, primarily China, West Asia and African, Southeast Asian, and Latin and South American countries. Notable about these traded emissions is that they would prevent emissions, as non-BRI Annex B countries with more efficient production would reduce the emission of their trading partners. Furthermore, within BRI countries, China constitutes the overwhelming source of, and a major player in, trade-related emissions, with a share of 45&#x0025; in 2015 in total export-related emission of the BRI countries. More than 10&#x0025; of its exported emissions were destined for SEA, with West Asia and African and BRI Annex B countries accounting for 7&#x0025; and 5.3&#x0025;, respectively. The Southeast Asian, West Asia and African, BRI Annex B countries, and Mongolia-Russia together are responsible for the remaining half of the export-related emissions of non-Annex B BRI countries. The highest export-related emissions from these BRI regions are destined for China, with the Southeast Asian countries accounting for the largest share of exported emissions &#x0028;25&#x0025;&#x0029; followed by Mongolia-Russia, West Asia and African, and BRI Annex B countries.</p>
+<p>We next examine the location of a country or region&#x2019;s consumption-related emissions or the proportion of its imported emissions that are sourced from trading partners &#x0028;<xref ref-type="fig" rid="F4">Figure 4b</xref> and Table S4&#x0029;. In the case of non-BRI countries and regions, BRI countries accounted for roughly three-fourths of imported emissions in non-BRI Annex B countries and 62&#x0025; in the United States, with China accounting for the largest share &#x0028;35&#x0025;&#x0029;, followed by West Asia and African, Southeast Asian, and BRI Annex B countries &#x0028;<xref ref-type="fig" rid="F4">Figure 4c</xref> and <xref ref-type="fig" rid="F4">d</xref>&#x0029;. These findings indicate that non-BRI Annex B countries and the United States have outsourced their polluting production to BRI countries, particularly China, with laxer environmental regulations or no binding climate mitigation commitments. Another important aspect of trade-related emissions transfer between BRI countries &#x0028;especially non-Annex B BRI regions&#x0029; and non-BRI countries &#x0028;e.g., non-BRI Annex B countries and the United States&#x0029; is that such imports of carbon emissions would reduce overall carbon emissions. For example, nearly 30&#x0025; of China&#x2019;s imported emissions come from non-BRI Annex B countries and the United States, both of which have lower carbon intensities compared to China. It is most likely that China&#x2019;s trade with these non-BRI trading partners will contribute to global emission reductions by avoiding additional emissions.</p>
+<p>In addition, the trade within BRI has diverse environmental impacts. For example, non-Annex B trade partners account for 65&#x0025; of BRI Annex B countries&#x2019; imported emissions &#x0028;<xref ref-type="fig" rid="F4">Figure 4e</xref>&#x0029;, with a lion share of China at 24&#x0025;, followed by West Asia and African countries at 12&#x0025;. There is indication that BRI trade would allow BRI Annex B countries to shift their environmental burden to non-Annex B BRI trading partners, potentially having negative climate consequences. However, there is an equal chance that BRI Annex B countries will invest in renewable energy and carbon-efficient green technologies in non-Annex B BRI countries, resulting in a decoupling of environment and economic growth. Another notable feature of BRI intratrade is the reduction in emissions caused by the export of goods manufactured in highly efficient production regions &#x0028;such as BRI Annex B countries&#x0029; to less efficient production regions &#x0028;like non-Annex B BRI regions&#x0029;.</p>
+<p>An important consideration in intra-BRI trade is the transfer within the non-Annex B BRI region, which mainly consists of developing countries. Critics of the BRI argue that China would relocate its pollution-intensive production to these regions. In such a case, we find that more than half of China&#x2019;s imported emissions are released during the production process in non-Annex B BRI regions, with Southeast Asian countries accounting for 28&#x0025;, West Asia and African countries accounting for 14&#x0025;, and Mongolia-Russia 10&#x0025;. At the same time, the share of non-Annex B BRI countries&#x2019; emission imports to meet their consumption demand source from China is significantly higher, ranging between 8&#x0025; and 42&#x0025;. These findings suggest that China&#x2019;s trade with non-Annex B BRI countries would have varying environmental consequences. While critics suggest that China may relocate its pollution-intensive industries to these countries, there is a possibility that China&#x2019;s more efficient technologies could lead to avoided emissions in these regions. Furthermore, these relocations &#x0028;similar to the East Asia Miracle&#x0029; may provide funding for developing countries &#x0028;like Congo&#x0029; with limited resources to transition to renewable energy and advance sustainable development &#x0028;<xref ref-type="bibr" rid="ref4">Cui et al., 2022</xref>&#x0029;. One policy implication might be that developing countries should take advantage of potential relocations from China to adopt more sustainable and efficient technologies, leveraging the funding provided to advance their renewable energy transition and overall sustainable development. Therefore, it seems plausible to argue that BRI investments in developing countries &#x0028;with low economic growth and inefficient resource utilization&#x0029; would stimulate their growth process by improving energy efficiency, resulting in better environmental outcomes &#x0028;<xref ref-type="bibr" rid="ref4">Cui et al., 2022</xref>&#x0029;.</p>
+</sec>
+<sec id="s11">
+<title>3.5. BRI countries and regions with highest export embodied emissions</title>
+<p>
+<xref ref-type="fig" rid="F5">Figure 5</xref> depicts a tree map of export-related emission transfers for the BRI region and sectors in 2015. In a tree map, BRI regions &#x0028;in various colors&#x0029; are displayed from left to right and top to bottom based on the size of export-related emissions, whereas the sectors of a region are placed from Northwest to Southeast based on their contribution to export-related emissions. The depiction in the tree map provides a striking view of the trade-related emissions generated by various BRI regions and sectors. A comparable amount of BRI emissions is attributed to China, West Asia and African, Southeast Asian countries, BRI Annex B countries, and Mongolia-Russia. China and West Asia and African countries are the major players, accounting for half of the total trade-related emissions in the BRI region.</p>
+<fig position="float" id="F5">
+<label>Figure 5.</label>
+<caption>
+<p>
+<bold>Tree map of export-related emission in 2009 by Belt and Road Initiative regions and sectors.</bold>
+</p>
+<p>See <xref ref-type="fig" rid="F1">Figure 1</xref>&#x2019;s caption for countries/regions&#x2019; details. Source: Calculated by the authors.</p>
+</caption>
+<graphic xlink:href="elementa.2023.00068.f05.tif"/>
+</fig>
+<p>Overall, the top emitting sectors in the BRI region are nearly identical across regions in terms of sectoral contributions to emissions. These are electricity, gas, and water &#x0028;S13, first for China, West Asia and African, Southeast Asian, BRI Annex B, Central Asian and Latin and South American countries, and Mongolia-Russia&#x0029;; petroleum, chemical, and nonmetallic mineral product &#x0028;S7, second for BRI Annex B and Mongolia-Russia, third for China, West Asia and African, SEA, Latin and South American, Central Asian countries, and BRI-ROW&#x0029;; electrical and machinery &#x0028;S9, second in China, Southeast Asian, South Asian, Central Asian countries, third in China, and Latin and South American countries, fourth in BRI-ROW, and sixth in West Asia and African countries&#x0029;; metal products &#x0028;S8, third in Central Asian and BRI Annex B countries, fourth in Mongolia-Russia, and fifth in China and West Asia and African countries&#x0029;; and mining and quarrying &#x0028;S3, first for Latin and South American countries, second for West Asia and African and Central Asian countries, third for Mongolia-Russia, and fifth for BRI Annex B countries&#x0029;. These findings emphasize the importance of understanding both high-intensity, high-emission final-goods export sectors in order to design and implement effective policies. Additionally, it may facilitate the creation of a trade strategy that reduces global emissions. It is important to consider other factors when making trade decisions. In some industries, for example, assigning all responsibilities to consumers may result in financial difficulties &#x0028;<xref ref-type="bibr" rid="ref2">Cadarso et al., 2015</xref>&#x0029;. Furthermore, accurately quantifying the effects of trade between developing countries is a critical consideration for specific regions &#x0028;<xref ref-type="bibr" rid="ref61">Meng et al., 2018</xref>&#x0029;.</p>
+<p>It is critical to recognize the limitations of our study&#x2019;s findings and proceed with caution when interpreting the findings. One important factor to consider is rapidly evolving technological changes, particularly in the adoption of low-carbon processes and energy sources, which has the potential to impact the precision of our research outcomes in recent years &#x0028;<xref ref-type="bibr" rid="ref42">Huang and Khan, 2022</xref>; <xref ref-type="bibr" rid="ref44">Jiang et al., 2023</xref>&#x0029;. These recent developments are expected to drive the decarbonization of economies, both in developed and emerging countries participating in the BRI, particularly after 2015. However, our study is unable to provide insights into the temporal dynamics of this transformation in recent years due to the unavailability of data beyond 2015 &#x0028;<xref ref-type="bibr" rid="ref46">Li et al., 2023</xref>&#x0029;. Considering these potential adjustments, the emissions associated with BRI trade could be influenced, resulting in new estimates that shed light on how international trade either supports or impedes climate goals. To conduct a more detailed analysis, it would be beneficial to have access to recent IO tables with more comprehensive sectoral coverage. However, to our knowledge, such data are currently unavailable.</p>
+</sec>
+</sec>
+<sec id="s12">
+<title>4. Conclusion</title>
+<p>The BRI is an unprecedented and unparalleled project that will connect over 138 countries from Asia to Europe. Energy projects have been identified as critical in BRI, with significant implications for economic growth and climate change in BRI countries. There are concerns that China might shift its energy- and carbon-intensive manufacturing to BRI regions. Because BRI countries are energy-rich &#x0028;like the Middle East&#x0029; and have less efficient economies &#x0028;like African countries&#x0029; but also have more energy-efficient &#x0028;with abundant renewable energy&#x0029; production technologies &#x0028;Annex B&#x0029;, there is a chance that BRI&#x2019;s trade will have diverse environmental effects. In this light, quantifying BRI&#x2019;s trade-related environmental impact allows for a more in-depth understanding of the varied impact of international trade on climate change, as well as how and in what direction BRI trade would facilitate or undermine international climate regimes.</p>
+<p>We investigated the environmental impacts of the BRI trade using an MRIO model and data from EORA from 1995 to 2015: EORA MRIO tables and EORA satellite accounts obtained from EDGAR. We employed a novel technology-adjusted consumption-based accounting &#x0028;TCBA&#x0029; in addition to conventional accounting schemes to determine how the choice of accounting scheme affects the size of international trade. We also examined the effect of a region&#x2019;s exports on global emissions by substituting its export-related domestic emissions with the global average.</p>
+<p>We found significant changes in the emissions location from both production and consumption ends from 1995 to 2015. Consistent emission-consumers &#x0028;Annex B countries&#x0029; managed to reduce their PBE to 1995 levels while stabilizing their CBE, which slightly increased from 13.85 Gt in 1995 to 14.6 Gt in 2015. In contrast, the PBE and CBE of consistent emission-producing developing countries increased from 11.5 and 10.5 Gt in 1995 to 25.06 and 22.8 Gt in 2015, respectively. Furthermore, we documented that global trade-related emissions doubled from 3.6 Gt in 1995 to 6.8 Gt in 2015, with more than 60&#x0025; in 1995 and 54&#x0025; in 2015 being attributable to the consumption of developed countries. Our findings revealed that non-Annex B countries accounted for 75&#x0025; &#x0028;1.6 Gt&#x0029; of Annex B imports in 1995, and this share increased to 87&#x0025; &#x0028;3.18 Gt&#x0029; in 2015. BRI regions were the net emitters of embodied emissions, with their PBE &#x0028;and CBE&#x0029; more than doubling from 11.66 Gt to 22.5 Gt &#x0028;from 10.37 Gt to 20.34 Gt&#x0029; during the study period. Furthermore, BRI trade-related emissions &#x0028;to non-BRI and intra-BRI regions&#x0029; accounted for nearly three-quarters &#x0028;5.01 Gt&#x0029; of global traded emissions in 2015, a nearly twofold increase from 2.62 Gt in 1995. Of which, more than half of which were related to the consumption of non-BRI regions.</p>
+<p>The TCBA findings revealed that technological adjustments in export sectors of BRI and their trading partners present a significantly different picture of the emission responsibility assigned to countries and their role in global climate efforts. Compared to traditional PBA and CBA schemes, TCBA yielded lower emission responsibility to &#x0028;BRI and non-BRI&#x0029; Annex B countries, indicating that these countries improved their domestic emission efficiency by adopting new efficient production technologies. Hence, Annex B countries&#x2019; trade-related emissions would result in minimal carbon leakage and would help to reduce global emissions. Our findings showed that technological adjustments cause a significant reversal &#x0028;decrease&#x0029; in the net trade balance of emissions in developed countries when compared to traditional BEET. These findings implied that Annex B countries have relocated carbon-intensive manufacturing units to other regions while improving domestic carbon efficiencies in production.</p>
+<p>The TCBA scheme yielded emission responsibility to China in between the other 2 accounting schemes &#x0028;PBA and CBA&#x0029;. TCBA credited China for a portion of its carbon-efficiency efforts &#x0028;reduced emissions&#x0029; while penalizing a portion of its emissions that increased global emissions. China is consistently a net exporter of embodied emissions under 3 schemes. However, after adjusting for technology, the proportion of exported emissions in China&#x2019;s PBEs decreased from 24&#x0025; to 16&#x0025; in 2015. This indicates that a substantial portion of trade-related emissions in Chinese exports are attributable to its carbon-intensive production. Likewise, TCBA yielded higher attribution to other non-Annex B BRI regions &#x0028;South Asian, West Asia and African, Central Asian countries, and Mongolia-Russia&#x0029; because emission intensities of most of the non-Annex BRI regions are higher than the world average intensities. We found that after technology adjustments, significant variation occurred to net trade emissions balance of non-Annex B countries and most of the regions are the net exporters of embodied emissions.</p>
+<p>We found that 60&#x0025; of BRI-traded emissions were destined for non-BRI Annex B countries, accounting for three-fourths of imported emissions in non-BRI Annex B countries and 62&#x0025; in the United States. By contrast, the United States and non-BRI Annex B countries exported 32&#x0025;&#x2013;35&#x0025; of their export-related emissions to non-Annex B BRI regions, primarily China, West Asia and African, Southeast Asian countries, and Latin and South American countries. Our findings suggested that BRI trade with non-BRI has varied environmental impact. Some of its &#x0028;imports from non-BRI Annex B countries&#x0029; trade with efficient trading partners would avoid emission, whereas trade in other direction may increase global emissions. In other cases, trade between BRI and non-BRI countries with comparable levels of technological and economic development would have a similar impact on the climate, regardless of where production takes place. We also found that intra-BRI trade has diverse environmental impacts, for example, emissions are reduced when goods manufactured in highly efficient production regions &#x0028;such as BRI-Annex B countries&#x0029; are exported to less efficient production regions, such as non-Annex B BRI regions.</p>
+<p>One of the growing environmental concerns about the BRI&#x2019;s trade-related effects on the environment is the potential outsourcing of polluting industries and output overcapacity from China to developing countries via BRI. We documented that roughly 50&#x0025; of China&#x2019;s imported emissions come from non-Annex B BRI regions&#x2014;namely, Southeast Asian countries &#x0028;28&#x0025;&#x0029;, West Asia and African countries &#x0028;14&#x0025;&#x0029;, and MR &#x0028;10&#x0025;&#x0029;&#x2014;to meet China&#x2019;s final demand. Conversely, the proportion of emissions imported from China to fulfill the consumption needs of non-Annex B BRI countries ranges from 8&#x0025; to 42&#x0025;. Our results show that China&#x2019;s BRI offshoring may have negative environmental impacts, but that these relocations &#x0028;like East Asia Miracle&#x0029; could be a source of funding for countries &#x0028;with limited capital&#x0029; transitioning to renewable energy and promoting sustainable development, thereby improving environmental outcomes &#x0028;<xref ref-type="bibr" rid="ref4">Cui et al., 2022</xref>&#x0029;. In addition, non-Annex B imports from China would have likely avoided emissions, as China tends to use more energy-efficient technologies compared to non-Annex B &#x0028;developing&#x0029; countries. Finally, it is documented that sector including electricity, gas, and water &#x0028;S13&#x0029;; petroleum, chemical, and nonmetallic mineral product &#x0028;S7&#x0029;; electrical and machinery &#x0028;S9&#x0029;; metal products &#x0028;S8&#x0029;; and mining and quarrying &#x0028;S3&#x0029; are the most pollution-intensive export sectors in the BRI regions.</p>
+<p>The findings of this comprehensive analysis can assist policymakers in better understanding both high-intensity, high-emission final-goods export sectors in order to design and implement green industrial policies such as low-carbon standards for globally traded sectors. Green investments should also be encouraged in order to maximize the BRI&#x2019;s welfare benefits for China and its trading partners &#x0028;particularly developing countries&#x0029;, while also mitigating the BRI&#x2019;s environmental impacts. Transitioning to a more sustainable economy necessitates substantial capital investments, particularly in developing and less developed countries. Policymakers can leverage opportunities presented by the BRI initiative to acquire funding for renewable energy development and sustainable infrastructure, which will help accelerate the shift to a more sustainable economy and yielding positive environmental outcomes. Furthermore, this study argues that accounting schemes have a significant impact on the scale of international trade and the identification of a country&#x2019;s true role in global emissions through its international trade. Adjustments to technological differences between trading partners can cause the net flow of emissions in international trade to reverse for a number of BRI and non-BRI countries, calling into question commonly held beliefs about the global pattern of emissions outsourcing/insourcing as interpreted by conventional CBA analyses. Hence, by supplementing traditional accounting schemes with technology-adjusted carbon footprints, the TCBA scheme expands the range of policy options and incentivizes a better alignment of currently available policy options.</p>
+<p>Despite this detailed investigation of the trade-related environmental impacts of the BRI trade at the country level that the analysis offers, it has a number of limitations. One limitation is the narrow sectoral coverage of the data obtained from the EORA database. Further investigation utilizing different data sources, such as GTAP, EXIOBASE, or ADB IO tables, can be carried out to validate the findings. Another factor that can affect our findings is the temporal aspect: We used data from 1995 to 2015, while the BRI trade would potentially increase in recent years after 2015. Technological changes, specifically the adoption of low-carbon processes and energy sources, are expected to drive the decarbonization of economies in &#x0028;developed and emerging&#x0029; BRI countries in recent years. This shift would eventually have an impact on the emissions associated with BRI trade, resulting in a reduction in the volume of trade-led emissions. Future research should incorporate updated data and innovative accounting methods to analyze current BRI emissions trends, evaluating their impact on global carbon emissions and allowing for a more nuanced identification of trade-related emissions responsibility.</p>
+</sec>
+</body>
+<back>
+<sec id="s13">
+<title>Data accessibility statement</title>
+<p>Data are sourced from the following database: <ext-link ext-link-type="uri" xlink:href="https://worldmrio.com/">https://worldmrio.com/</ext-link>.</p>
+</sec>
+<sec id="s14">
+<title>Supplemental files</title>
+<p>The supplemental files for this article can be found as follows:</p>
+<p>See Tables S1&#x2013;S4. Docx.</p>
+</sec>
+<sec id="s15" sec-type="financial-disclosure">
+<title>Funding</title>
+<p>This work is supported by the National Social Science Foundation of China &#x0028;21BGJ028&#x0029;.</p>
+</sec>
+<sec id="s16">
+<title>Competing interests</title>
+<p>No potential conflict of interest was reported by the authors.</p>
+</sec>
+<sec id="s17">
+<title>Author contributions</title>
+<p>Contributed to conception and design: YL, JK.</p>
+<p>Contributed to acquisition of data: YL, JK.</p>
+<p>Contributed to analysis and interpretation of data: YL, JK.</p>
+<p>Drafted and/or revised the article: YL, JK.</p>
+<p>Approved the submitted version for publication: YL, JK.</p>
+</sec>
+<notes>
+<title>Notes</title>
+<fn-group>
+<fn id="fn1" fn-type="other">
+<label>1.</label>
+<p>Official website of BRI &#x0028;<ext-link ext-link-type="uri" xlink:href="https://eng.yidaiyilu.gov.cn">https://eng.yidaiyilu.gov.cn</ext-link>&#x0029;.</p>
+</fn>
+<fn id="fn2" fn-type="other">
+<label>2.</label>
+<p>Previous research has shown that improved infrastructure and market access in Belt and Road Initiative &#x0028;BRI&#x0029; countries benefit the local population in Nepal &#x0028;<xref ref-type="bibr" rid="ref48">Jacoby, 2000</xref>&#x0029;, as well as reduce poverty and increase overall consumption &#x0028;SDGs 12&#x0029; in Ethiopia &#x0028;<xref ref-type="bibr" rid="ref6">Dercon et al., 2009</xref>; <xref ref-type="bibr" rid="ref47">Iimi et al., 2016</xref>&#x0029;.</p>
+</fn>
+<fn id="fn3" fn-type="other">
+<label>3.</label>
+<p>East Asia Miracle was one such relocation, in which Japan outsourced obsolete industries to China, Korea, and Taiwan, resulting in a win&#x2013;win situation for both the outsourcing country and the receiving countries, which would otherwise have to rely on less advanced technologies &#x0028;in comparison to Japan&#x0029; to drive economic development &#x0028;<xref ref-type="bibr" rid="ref51">Page, 1994</xref>; <xref ref-type="bibr" rid="ref41">Han et al., 2024</xref>&#x0029;.</p>
+</fn>
+<fn id="fn4" fn-type="other">
+<label>4.</label>
+<p>Prior to 2005, the technology-adjusted CBA &#x0028;TCBA; like the production-based emission accounting [PBA]&#x0029; assigned BRI Annex B countries a higher level of responsibility than the consumption-based emission accounting &#x0028;CBA&#x0029;, and both BEET and TBEET indicate that the region is a net exporter of embodied emissions. However, the trend shifted after 2005, with TCBA schemes having lower attribution than both PBA and CBA schemes, and both BEET and TBEET indicating it as a net importer of embodied emissions.</p>
+</fn>
+</fn-group>
+</notes>
+<ref-list>
+<title>References</title>
+<ref id="ref1">
+<mixed-citation publication-type="journal">
+<string-name><surname>Baumert</surname>, <given-names>N</given-names></string-name>, <string-name><surname>Kander</surname>, <given-names>A</given-names></string-name>, <string-name><surname>Jiborn</surname>, <given-names>M</given-names></string-name>, <string-name><surname>Kulionis</surname>, <given-names>V</given-names></string-name>, <string-name><surname>Nielsen</surname>, <given-names>T.</given-names></string-name> <year>2019</year>. <article-title>Global outsourcing of carbon emissions 1995-2009: A reassessment</article-title>. <source><italic>Environmental Science &#x0026; Policy</italic></source> <volume>92</volume>: <fpage>228</fpage>&#x2013;<lpage>236</lpage>.</mixed-citation>
+</ref>
+<ref id="ref2"><mixed-citation publication-type="journal">
+<string-name><surname>Cadarso</surname>, <given-names>M&#x00C1;</given-names></string-name>, <string-name><surname>G&#x00F3;mez</surname>, <given-names>N</given-names></string-name>, <string-name><surname>L&#x00F3;pez</surname>, <given-names>LA</given-names></string-name>, <string-name><surname>Tobarra</surname>, <given-names>M&#x00C1;</given-names></string-name>, <string-name><surname>Zafrilla</surname>, <given-names>JE.</given-names></string-name> <year>2015</year>. <article-title>Quantifying Spanish tourism&#x2019;s carbon footprint: The contributions of residents and visitors: A longitudinal study</article-title>. <source><italic>Journal of Sustainable Tourism</italic></source> <volume>23</volume>&#x0028;<issue>6</issue>&#x0029;: <fpage>922</fpage>&#x2013;<lpage>946</lpage>.</mixed-citation>
+</ref>
+<ref id="ref3"><mixed-citation publication-type="journal">
+<string-name><surname>Cai</surname>, <given-names>X</given-names></string-name>, <string-name><surname>Che</surname>, <given-names>X</given-names></string-name>, <string-name><surname>Zhu</surname>, <given-names>B</given-names></string-name>, <string-name><surname>Zhao</surname>, <given-names>J</given-names></string-name>, <string-name><surname>Rui</surname>, <given-names>X.</given-names></string-name> <year>2018</year>. <article-title>Will developing countries become pollution havens for developed countries? An empirical investigation in the belt and road</article-title>. <source><italic>Journal of Cleaner Production</italic></source> <volume>198</volume>: <fpage>624</fpage>&#x2013;<lpage>632</lpage>.</mixed-citation>
+</ref>
+<ref id="ref4"><mixed-citation publication-type="web">
+<string-name><surname>Cui</surname>, <given-names>R</given-names></string-name>, <string-name><surname>Gu</surname>, <given-names>B</given-names></string-name>, <string-name><surname>Lou</surname>, <given-names>J</given-names></string-name>, <string-name><surname>Zhao</surname>, <given-names>A</given-names></string-name>, <string-name><surname>Behrendt</surname>, <given-names>J</given-names></string-name>, <string-name><surname>Song</surname>, <given-names>J</given-names></string-name>, <string-name><surname>Clarke</surname>, <given-names>L</given-names></string-name>, <string-name><surname>Iyer</surname>, <given-names>G</given-names></string-name>, <string-name><surname>McJeon</surname>, <given-names>H</given-names></string-name>, <string-name><surname>Wang</surname>, <given-names>Y</given-names></string-name>, <string-name><surname>Tan</surname>, <given-names>X</given-names></string-name>, <string-name><surname>Zhu</surname>, <given-names>K</given-names></string-name>, <string-name><surname>Sheng</surname>, <given-names>Y</given-names></string-name>, <string-name><surname>Zhai</surname>, <given-names>H</given-names></string-name>, <string-name><surname>Kong</surname>, <given-names>L</given-names></string-name>, <string-name><surname>Cheng</surname>, <given-names>Y</given-names></string-name>, <string-name><surname>Edmonds</surname>, <given-names>J</given-names></string-name>, <string-name><surname>Sampedro</surname>, <given-names>J</given-names></string-name>, <string-name><surname>Waldhoff</surname>, <given-names>S</given-names></string-name>, <string-name><surname>Yu</surname>, <given-names>S</given-names></string-name>, <string-name><surname>Hultman</surname>, <given-names>N.</given-names></string-name> <year>2022</year> <month>Oct</month>. <article-title>Facilitate high-quality, sustainable growth through a low-carbon transition in the Belt and Road Initiative countries</article-title>. <publisher-loc>Beijing, China</publisher-loc>: <publisher-name>Center for Global Sustainability, College Park; Chinese Academy of Sciences</publisher-name>. <comment>Available at</comment> <ext-link ext-link-type="uri" xlink:href="https://cgs.umd.edu/sites/default/files/2022-10/UMD-CGS-LowCarbonBRI-PolicyBrief-Oct2022-EN_1.pdf">https://cgs.umd.edu/sites/default/files/2022-10/UMD-CGS-LowCarbonBRI-PolicyBrief-Oct2022-EN_1.pdf</ext-link></mixed-citation>
+</ref>
+<ref id="ref5"><mixed-citation publication-type="journal">
+<string-name><surname>Dechezlepr&#x00EA;tre</surname>, <given-names>A</given-names></string-name>, <string-name><surname>Sato</surname>, <given-names>M</given-names></string-name>. <year>2017</year>. <article-title>The impacts of environmental regulations on competitiveness</article-title>. <source><italic>Review of Environmental Economics and Policy</italic></source> <volume>11</volume>&#x0028;<issue>2</issue>&#x0029;: <fpage>183</fpage>&#x2013;<lpage>206</lpage>.</mixed-citation>
+</ref>
+<ref id="ref6"><mixed-citation publication-type="journal">
+<string-name><surname>Dercon</surname>, <given-names>S</given-names></string-name>, <string-name><surname>Gilligan</surname>, <given-names>DO</given-names></string-name>, <string-name><surname>Hoddinott</surname>, <given-names>J</given-names></string-name>, <string-name><surname>Woldehan</surname>, <given-names>T.</given-names></string-name> <year>2009</year>. <article-title>The impact of agricultural extension and roads on poverty and consumption growth in fifteen Ethiopian villages</article-title>. <source><italic>American Journal of Agricultural Economics</italic></source> <volume>91</volume>&#x0028;<issue>4</issue>&#x0029;: <fpage>1007</fpage>&#x2013;<lpage>1021</lpage>.</mixed-citation>
+</ref>
+<ref id="ref7"><mixed-citation publication-type="journal">
+<string-name><surname>Ding</surname>, <given-names>T</given-names></string-name>, <string-name><surname>Ning</surname>, <given-names>Y</given-names></string-name>, <string-name><surname>Zhang</surname>, <given-names>Y.</given-names></string-name> <year>2018</year>. <article-title>The contribution of China&#x2019;s bilateral trade to global carbon emissions in the context of globalization</article-title>. <source><italic>Structural Change and Economic Dynamics</italic></source> <volume>46</volume>: <fpage>78</fpage>&#x2013;<lpage>88</lpage>.</mixed-citation>
+</ref>
+<ref id="ref8"><mixed-citation publication-type="journal">
+<string-name><surname>Domingos</surname>, <given-names>T</given-names></string-name>, <string-name><surname>Zafrilla</surname>, <given-names>JE</given-names></string-name>, <string-name><surname>L&#x00F3;pez</surname>, <given-names>LA</given-names></string-name>. <year>2016</year>. <article-title>Consistency of technology-adjusted consumption-based accounting</article-title>. <source><italic>Nature Climate Change</italic></source> <volume>6</volume>&#x0028;<issue>8</issue>&#x0029;: <fpage>729</fpage>&#x2013;<lpage>730</lpage>.</mixed-citation>
+</ref>
+<ref id="ref9"><mixed-citation publication-type="journal">
+<string-name><surname>Han</surname>, <given-names>M</given-names></string-name>, <string-name><surname>Yao</surname>, <given-names>Q</given-names></string-name>, <string-name><surname>Liu</surname>, <given-names>W</given-names></string-name>, <string-name><surname>Dunford</surname>, <given-names>M.</given-names></string-name> <year>2018</year>. <article-title>Tracking embodied carbon flows in the belt and road regions</article-title>. <source><italic>Journal of Geographical Sciences</italic></source> <volume>28</volume>&#x0028;<issue>9</issue>&#x0029;: <fpage>1263</fpage>&#x2013;<lpage>1274</lpage>.</mixed-citation>
+</ref>
+<ref id="ref41"><mixed-citation publication-type="journal">
+<string-name><surname>Han</surname>, <given-names>W</given-names></string-name>, <string-name><surname>Zhang</surname>, <given-names>T</given-names></string-name>, <string-name><surname>Khan</surname>, <given-names>J</given-names></string-name>, <string-name><surname>Wang</surname>, <given-names>L</given-names></string-name>, <string-name><surname>Tu</surname>, <given-names>C</given-names></string-name>. <year>2024</year>. <article-title>Going global in the digital era: How digital finance affects Chinese OFDI</article-title>. <source><italic>Journal of Organizational and End User Computing &#x0028;JOEUC&#x0029;</italic></source> <volume>36</volume>&#x0028;<issue>1</issue>&#x0029;: <fpage>1</fpage>&#x2013;<lpage>22</lpage>.</mixed-citation>
+</ref>
+<ref id="ref40"><mixed-citation publication-type="journal">
+<string-name><surname>Hou</surname>, <given-names>J</given-names></string-name>, <string-name><surname>Deng</surname>, <given-names>X</given-names></string-name>, <string-name><surname>Springer</surname>, <given-names>CH</given-names></string-name>, <string-name><surname>Teng</surname>, <given-names>F</given-names></string-name>. <year>2020</year>. <article-title>A global analysis of CO<sub>2</sub> and non-CO<sub>2</sub> GHG emissions embodied in trade with Belt and Road Initiative countries</article-title>. <source><italic>Ecosystem Health and Sustainability</italic></source> <volume>6</volume>&#x0028;<issue>1</issue>&#x0029;: <fpage>1761888</fpage>.</mixed-citation>
+</ref>
+<ref id="ref10"><mixed-citation publication-type="journal">
+<string-name><surname>Huang</surname>, <given-names>MX</given-names></string-name>, <string-name><surname>Li</surname>, <given-names>SY.</given-names></string-name> <year>2020</year>. <article-title>The analysis of the impact of the belt and road initiative on the green development of participating countries</article-title>. <source><italic>Science of the Total Environment</italic></source> <volume>722</volume>: <fpage>137869</fpage>.</mixed-citation>
+</ref>
+<ref id="ref50"><mixed-citation publication-type="journal">
+<string-name><surname>Huang</surname>, <given-names>Y</given-names></string-name>. <year>2019</year>. <article-title>Environmental risks and opportunities for countries along the Belt and Road: Location choice of China&#x0027;s investment</article-title>. <source><italic>Journal of Cleaner Production</italic></source> <volume>211</volume>: <fpage>14</fpage>&#x2013;<lpage>26</lpage>.</mixed-citation>
+</ref>
+<ref id="ref52"><mixed-citation publication-type="journal">
+<string-name><surname>Huang</surname>, <given-names>Y</given-names></string-name>, <string-name><surname>Haseeb</surname>, <given-names>M</given-names></string-name>, <string-name><surname>Khan</surname>, <given-names>J</given-names></string-name>, <string-name><surname>Hossain</surname>, <given-names>ME</given-names></string-name>. <year>2023</year>. <article-title>Structural changes and economic landscape of the Indian economy: 2000-2019</article-title>. <source><italic>Review of Development Economics</italic></source> <volume>27</volume>&#x0028;<issue>1</issue>&#x0029;: <fpage>395</fpage>&#x2013;<lpage>422</lpage>.</mixed-citation>
+</ref>
+<ref id="ref42"><mixed-citation publication-type="journal">
+<string-name><surname>Huang</surname>, <given-names>Y</given-names></string-name>, <string-name><surname>Khan</surname>, <given-names>J</given-names></string-name>. <year>2022</year>. <article-title>Has the information and communication technology sector become the engine of China&#x2019;s economic growth?</article-title> <source><italic>Review of Development Economics</italic></source> <volume>26</volume>&#x0028;<issue>1</issue>&#x0029;: <fpage>510</fpage>&#x2013;<lpage>533</lpage>.</mixed-citation>
+</ref>
+<ref id="ref35"><mixed-citation publication-type="journal">
+<string-name><surname>Huang</surname>, <given-names>Y</given-names></string-name>, <string-name><surname>Khan</surname>, <given-names>J</given-names></string-name>, <string-name><surname>Girardin</surname>, <given-names>E</given-names></string-name>, <string-name><surname>Shad</surname>, <given-names>U</given-names></string-name>. <year>2021</year>. <article-title>The role of the real estate sector in the structural dynamics of the Chinese economy: An input&#x2013;output analysis</article-title>. <source><italic>China &#x0026; World Economy</italic></source> <volume>29</volume>&#x0028;<issue>1</issue>&#x0029;: <fpage>61</fpage>&#x2013;<lpage>86</lpage>.</mixed-citation>
+</ref>
+<ref id="ref47"><mixed-citation publication-type="web">
+<string-name><surname>Iimi</surname>, <given-names>A</given-names></string-name>, <string-name><surname>Ahmed</surname>, <given-names>AKF</given-names></string-name>, <string-name><surname>Anderson</surname>, <given-names>EC</given-names></string-name>, <string-name><surname>Diehl</surname>, <given-names>AS</given-names></string-name>, <string-name><surname>Maiyo</surname>, <given-names>L</given-names></string-name>, <string-name><surname>Peralta Quiros</surname>, <given-names>T</given-names></string-name>, <string-name><surname>Rao</surname>, <given-names>KS</given-names></string-name>. <year>2016</year>. <article-title>New rural access index: Main determinants and correlation to poverty &#x0028;English&#x0029;</article-title>. <comment>Policy research working paper no. WPS 7876</comment>. <publisher-loc>Washington, DC</publisher-loc>: <publisher-name>World Bank Group</publisher-name>. <comment>Available at</comment> <ext-link ext-link-type="uri" xlink:href="http://documents.worldbank.org/curated/en/821621478094511356/New-rural-access-index-main-determinants-and-correlation-to-poverty">http://documents.worldbank.org/curated/en/821621478094511356/New-rural-access-index-main-determinants-and-correlation-to-poverty</ext-link>.</mixed-citation>
+</ref>
+<ref id="ref48"><mixed-citation publication-type="journal">
+<string-name><surname>Jacoby</surname>, <given-names>HG</given-names></string-name>. <year>2000</year>. <article-title>Access to markets and the benefits of rural roads</article-title>. <source><italic>The Economic Journal</italic></source> <volume>110</volume>&#x0028;<issue>465</issue>&#x0029;: <fpage>713</fpage>&#x2013;<lpage>737</lpage>.</mixed-citation>
+</ref>
+<ref id="ref11"><mixed-citation publication-type="web">
+<string-name><surname>Jakob</surname>, <given-names>M</given-names></string-name>, <string-name><surname>Marschinski</surname>, <given-names>R.</given-names></string-name> <year>2013</year>. <article-title>Interpreting trade-related CO<sub>2</sub> emission transfers</article-title>. <source><italic>Nature Climate Change</italic></source> <volume>3</volume>&#x0028;<issue>1</issue>&#x0029;: <fpage>19</fpage>&#x2013;<lpage>23</lpage>. <comment>DOI:</comment> <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1038/nclimate1630">http://dx.doi.org/10.1038/nclimate1630</ext-link>.</mixed-citation>
+</ref>
+<ref id="ref12"><mixed-citation publication-type="journal">
+<string-name><surname>Jakob</surname>, <given-names>M</given-names></string-name>, <string-name><surname>Steckel</surname>, <given-names>JC</given-names></string-name>, <string-name><surname>Edenhofer</surname>, <given-names>O.</given-names></string-name> <year>2014</year>. <article-title>Consumption- vs. production-based emission policies</article-title>. <source><italic>Annual Review of Resource and Environmental Economics</italic></source> <volume>6</volume>&#x0028;<issue>1</issue>&#x0029;: <fpage>297</fpage>&#x2013;<lpage>318</lpage>.</mixed-citation>
+</ref>
+<ref id="ref44"><mixed-citation publication-type="journal">
+<string-name><surname>Jiang</surname>, <given-names>D</given-names></string-name>, <string-name><surname>Lin</surname>, <given-names>H</given-names></string-name>, <string-name><surname>Khan</surname>, <given-names>J</given-names></string-name>, <string-name><surname>Han</surname>, <given-names>Y</given-names></string-name>. <year>2023</year>. <article-title>Professor independent directors, marketization process and corporate innovation performance: Empirical evidence from Chinese A-share listed companies</article-title>. <source><italic>International Journal of Manpower</italic></source> <volume>44</volume>&#x0028;<issue>1</issue>&#x0029;: <fpage>152</fpage>&#x2013;<lpage>175</lpage>.</mixed-citation>
+</ref>
+<ref id="ref13"><mixed-citation publication-type="journal">
+<string-name><surname>Jiborn</surname>, <given-names>M</given-names></string-name>, <string-name><surname>Kander</surname>, <given-names>A</given-names></string-name>, <string-name><surname>Kulionis</surname>, <given-names>V</given-names></string-name>, <string-name><surname>Nielsen</surname>, <given-names>H</given-names></string-name>, <string-name><surname>Moran</surname>, <given-names>DD.</given-names></string-name> <year>2018</year>. <article-title>Decoupling or delusion? Measuring emissions displacement in foreign trade</article-title>. <source><italic>Global Environmental Change</italic></source> <volume>49</volume>: <fpage>27</fpage>&#x2013;<lpage>34</lpage>.</mixed-citation>
+</ref>
+<ref id="ref14"><mixed-citation publication-type="book">
+<string-name><surname>Jun</surname>, <given-names>M</given-names></string-name>, <string-name><surname>Zadek</surname>, <given-names>S.</given-names></string-name> <year>2019</year>. <chapter-title>Decarbonizing the belt and road&#x2014;A green finance roadmap</chapter-title>. <publisher-loc>Beijing, China</publisher-loc>: <publisher-name>Tsinghua PBCSF</publisher-name>.</mixed-citation>
+</ref>
+<ref id="ref15"><mixed-citation publication-type="journal">
+<string-name><surname>Kagawa</surname>, <given-names>S</given-names></string-name>, <string-name><surname>Suh</surname>, <given-names>S</given-names></string-name>, <string-name><surname>Hubacek</surname>, <given-names>K</given-names></string-name>, <string-name><surname>Wiedmann</surname>, <given-names>T</given-names></string-name>, <string-name><surname>Nansai</surname>, <given-names>K</given-names></string-name>, <string-name><surname>Minx</surname>, <given-names>J.</given-names></string-name> <year>2015</year>. <article-title>CO<sub>2</sub> emission clusters within global supply chain networks: Implications for climate change mitigation</article-title>. <source><italic>Global Environmental Change</italic></source> <volume>35</volume>: <fpage>486</fpage>&#x2013;<lpage>496</lpage>.</mixed-citation>
+</ref>
+<ref id="ref16"><mixed-citation publication-type="journal">
+<string-name><surname>Kander</surname>, <given-names>A</given-names></string-name>, <string-name><surname>Jiborn</surname>, <given-names>M</given-names></string-name>, <string-name><surname>Moran</surname>, <given-names>D</given-names></string-name>, <string-name><surname>Wiedmann</surname>, <given-names>T.</given-names></string-name> <year>2016</year>. <article-title>Consistency of technology-adjusted consumption-based accounting</article-title>. <source><italic>Nature Climate Change</italic></source> <volume>6</volume>&#x0028;<issue>8</issue>&#x0029;: <fpage>729</fpage>&#x2013;<lpage>730</lpage>.</mixed-citation>
+</ref>
+<ref id="ref17"><mixed-citation publication-type="journal">
+<string-name><surname>Kanemoto</surname>, <given-names>K</given-names></string-name>, <string-name><surname>Lenzen</surname>, <given-names>M</given-names></string-name>, <string-name><surname>Peters</surname>, <given-names>GP</given-names></string-name>, <string-name><surname>Moran</surname>, <given-names>DD</given-names></string-name>, <string-name><surname>Geschke</surname>, <given-names>A.</given-names></string-name> <year>2012</year>. <article-title>Frameworks for comparing emissions associated with production, consumption, and international trade</article-title>. <source><italic>Environmental Science &#x0026; Technology</italic></source> <volume>46</volume>&#x0028;<issue>1</issue>&#x0029;: <fpage>172</fpage>&#x2013;<lpage>179</lpage>.</mixed-citation>
+</ref>
+<ref id="ref18"><mixed-citation publication-type="journal">
+<string-name><surname>Khan</surname>, <given-names>J</given-names></string-name>, <string-name><surname>Li</surname>, <given-names>Y</given-names></string-name>, <string-name><surname>Girardin</surname>, <given-names>E.</given-names></string-name> <year>2022</year>. <article-title>Is a clash coming when trade and climate meet at the border? The impact of the EU&#x2019;s carbon border adjustment on China&#x2019;s belt and road initiative</article-title>. <source><italic>Structural Change and Economic Dynamics</italic></source> <volume>63</volume>: <fpage>112</fpage>&#x2013;<lpage>124</lpage>.</mixed-citation>
+</ref>
+<ref id="ref45"><mixed-citation><string-name><surname>Khan</surname>, <given-names>J</given-names></string-name>, <string-name><surname>Li</surname>, <given-names>Y</given-names></string-name>, <string-name><surname>Mahsud</surname>, <given-names>QJ</given-names></string-name>. <year>2024</year>. <article-title>Linkages and structural changes in the Chinese financial sector, 1996&#x2013;2018: A network and input&#x2013;output approach</article-title>. <source><italic>Structural Change and Economic Dynamics</italic></source> <volume>70</volume>: <fpage>33</fpage>&#x2013;<lpage>44</lpage>.</mixed-citation>
+</ref>
+<ref id="ref19"><mixed-citation publication-type="web">
+<string-name><surname>Lan</surname>, <given-names>ND</given-names></string-name>, <string-name><surname>Vu</surname>, <given-names>TM.</given-names></string-name> <year>2019</year>. <article-title>The Sino-US-Vietnam triangle in a belt and road era</article-title>. <source><italic>East Asia</italic></source> <volume>36</volume>&#x0028;<issue>3</issue>&#x0029;: <fpage>229</fpage>&#x2013;<lpage>241</lpage>. <comment>DOI</comment>: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1007/s12140-019-09318-6">http://dx.doi.org/10.1007/s12140-019-09318-6</ext-link>.</mixed-citation>
+</ref>
+<ref id="ref20"><mixed-citation publication-type="journal">
+<string-name><surname>Laurance</surname>, <given-names>WF</given-names></string-name>, <string-name><surname>Clements</surname>, <given-names>GR</given-names></string-name>, <string-name><surname>Sloan</surname>, <given-names>S</given-names></string-name>, <string-name><surname>O&#x2019;Connell</surname>, <given-names>CS</given-names></string-name>, <string-name><surname>Mueller</surname>, <given-names>ND</given-names></string-name>, <string-name><surname>Goosem</surname>, <given-names>M</given-names></string-name>, <string-name><surname>Venter</surname>, <given-names>O</given-names></string-name>, <string-name><surname>Edwards</surname>, <given-names>DP</given-names></string-name>, <string-name><surname>Phalan</surname>, <given-names>B</given-names></string-name>, <string-name><surname>Balmford</surname>, <given-names>A</given-names></string-name>, <string-name><surname>Ree</surname>, <given-names>RVD</given-names></string-name>, <string-name><surname>Arrea</surname>, <given-names>IB.</given-names></string-name> <year>2014</year>. <article-title>A global strategy for road building</article-title>. <source><italic>Nature</italic></source> <volume>513</volume>: <fpage>229</fpage>&#x2013;<lpage>232</lpage>.</mixed-citation>
+</ref>
+<ref id="ref21"><mixed-citation publication-type="journal">
+<string-name><surname>Leverett</surname>, <given-names>F</given-names></string-name>, <string-name><surname>Bingbing</surname>, <given-names>W.</given-names></string-name> <year>2017</year>. <article-title>The new Silk Road and China&#x2019;s evolving grand strategy</article-title>. <source><italic>The China Journal</italic></source> <volume>77</volume>&#x0028;<issue>1</issue>&#x0029;: <fpage>110</fpage>&#x2013;<lpage>132</lpage>.</mixed-citation>
+</ref>
+<ref id="ref46"><mixed-citation publication-type="journal">
+<string-name><surname>Li</surname>, <given-names>J</given-names></string-name>, <string-name><surname>Rehman</surname>, <given-names>A</given-names></string-name>, <string-name><surname>Khan</surname>, <given-names>J</given-names></string-name>. <year>2023</year>. <article-title>The role of education and innovation in renewable energy consumption in OECD and BRICS countries</article-title>. <source><italic>Problemy Ekorozwoju</italic></source> <volume>18</volume>&#x0028;<issue>2</issue>&#x0029;: <fpage>102</fpage>&#x2013;<lpage>110</lpage>.</mixed-citation>
+</ref>
+<ref id="ref61"><mixed-citation publication-type="journal">
+<string-name><surname>Meng</surname>, <given-names>J</given-names></string-name>, <string-name><surname>Mi</surname>, <given-names>Z</given-names></string-name>, <string-name><surname>Guan</surname>, <given-names>D</given-names></string-name>, <string-name><surname>Li</surname>, <given-names>J</given-names></string-name>, <string-name><surname>Tao</surname>, <given-names>S</given-names></string-name>, <string-name><surname>Li</surname>, <given-names>Y</given-names></string-name>, <string-name><surname>Feng</surname>, <given-names>K</given-names></string-name>, <string-name><surname>Liu</surname>, <given-names>J</given-names></string-name>, <string-name><surname>Liu</surname>, <given-names>Z</given-names></string-name>, <string-name><surname>Wang</surname>, <given-names>X</given-names></string-name>, <string-name><surname>Zhang</surname>, <given-names>Q</given-names></string-name>, <string-name><surname>Davis</surname>, <given-names>SJ</given-names></string-name>. <year>2018</year>. <article-title>The rise of South&#x2013;South trade and its effect on global CO<sub>2</sub> emissions</article-title>. <source><italic>Nature Communications</italic></source> <volume>9</volume>&#x0028;<issue>1</issue>&#x0029;: <fpage>1871</fpage>.</mixed-citation>
+</ref>
+<ref id="ref22"><mixed-citation publication-type="journal">
+<string-name><surname>Muhammad</surname>, <given-names>S</given-names></string-name>, <string-name><surname>Long</surname>, <given-names>X</given-names></string-name>, <string-name><surname>Salman</surname>, <given-names>M</given-names></string-name>, <string-name><surname>Dauda</surname>, <given-names>L.</given-names></string-name> <year>2020</year>. <article-title>Effect of urbanization and international trade on CO<sub>2</sub> emissions across 65 belt and road initiative countries</article-title>. <source><italic>Energy</italic></source> <volume>196</volume>: <fpage>117102</fpage>.</mixed-citation>
+</ref>
+<ref id="ref51"><mixed-citation publication-type="journal">
+<string-name><surname>Page</surname>, <given-names>J</given-names></string-name>. <year>1994</year>. <article-title>The East Asian miracle: Four lessons for development policy</article-title>. <source><italic>NBER Macroeconomics Annual</italic></source> <volume>9</volume>: <fpage>219</fpage>&#x2013;<lpage>269</lpage>.</mixed-citation>
+</ref>
+<ref id="ref23"><mixed-citation publication-type="journal">
+<string-name><surname>Peters</surname>, <given-names>GP</given-names></string-name>, <string-name><surname>Minx</surname>, <given-names>JC</given-names></string-name>, <string-name><surname>Weber</surname>, <given-names>CL</given-names></string-name>, <string-name><surname>Edenhofer</surname>, <given-names>O.</given-names></string-name> <year>2011</year>. <article-title>Growth in emission transfers via international trade from 1990 to 2008</article-title>. <source><italic>Proceedings of the National Academy of Sciences</italic></source> <volume>108</volume>&#x0028;<issue>21</issue>&#x0029;: <fpage>8903</fpage>&#x2013;<lpage>8908</lpage>.</mixed-citation>
+</ref>
+<ref id="ref24"><mixed-citation publication-type="journal">
+<string-name><surname>Schulhof</surname>, <given-names>V</given-names></string-name>, <string-name><surname>van Vuuren</surname>, <given-names>D</given-names></string-name>, <string-name><surname>Kirchherr</surname>, <given-names>J.</given-names></string-name> <year>2022</year>. <article-title>The Belt and Road Initiative &#x0028;BRI&#x0029;: What will it look like in the future?</article-title> <source><italic>Technological Forecasting and Social Change</italic></source> <volume>175</volume>: <fpage>121306</fpage>.</mixed-citation>
+</ref>
+<ref id="ref25"><mixed-citation publication-type="journal">
+<string-name><surname>Steckel</surname>, <given-names>JC</given-names></string-name>, <string-name><surname>Hilaire</surname>, <given-names>J</given-names></string-name>, <string-name><surname>Jakob</surname>, <given-names>M</given-names></string-name>, <string-name><surname>Edenhofer</surname>, <given-names>O.</given-names></string-name> <year>2020</year>. <article-title>Coal and carbonization in sub-Saharan Africa</article-title>. <source><italic>Nature Climate Change</italic></source> <volume>10</volume>: <fpage>83</fpage>&#x2013;<lpage>88</lpage>.</mixed-citation>
+</ref>
+<ref id="ref26"><mixed-citation publication-type="journal">
+<string-name><surname>Teo</surname>, <given-names>HC</given-names></string-name>, <string-name><surname>Lechner</surname>, <given-names>AM</given-names></string-name>, <string-name><surname>Walton</surname>, <given-names>GW</given-names></string-name>, <string-name><surname>Chan</surname>, <given-names>FKS</given-names></string-name>, <string-name><surname>Cheshmehzangi</surname>, <given-names>A</given-names></string-name>, <string-name><surname>Tan-Mullins</surname>, <given-names>M</given-names></string-name>, <string-name><surname>Chan</surname>, <given-names>HK</given-names></string-name>, <string-name><surname>Sternberg</surname>, <given-names>T</given-names></string-name>, <string-name><surname>Campos-Arceiz</surname>, <given-names>A.</given-names></string-name> <year>2019</year>. <article-title>Environmental impacts of infrastructure development under the belt and road initiative</article-title>. <source><italic>Environments</italic></source> <volume>6</volume>&#x0028;<issue>6</issue>&#x0029;: <fpage>72</fpage>.</mixed-citation>
+</ref>
+<ref id="ref27"><mixed-citation publication-type="journal">
+<string-name><surname>Weiss</surname>, <given-names>DJ</given-names></string-name>, <string-name><surname>Nelson</surname>, <given-names>A</given-names></string-name>, <string-name><surname>Gibson</surname>, <given-names>HS</given-names></string-name>, <string-name><surname>Temperley</surname>, <given-names>W</given-names></string-name>, <string-name><surname>Peedell</surname>, <given-names>S</given-names></string-name>, <string-name><surname>Lieber</surname>, <given-names>A</given-names></string-name>, <string-name><surname>Hancher</surname>, <given-names>M</given-names></string-name>, <string-name><surname>Poyart</surname>, <given-names>E</given-names></string-name>, <string-name><surname>Belchior</surname>, <given-names>S</given-names></string-name>, <string-name><surname>Fullman</surname>, <given-names>N</given-names></string-name>, <string-name><surname>Mappin</surname>, <given-names>B</given-names></string-name>, <string-name><surname>Dalrymple</surname>, <given-names>U</given-names></string-name>, <string-name><surname>Rozier</surname>, <given-names>J</given-names></string-name>, <string-name><surname>Lucas</surname>, <given-names>TCD</given-names></string-name>, <string-name><surname>Howes</surname>, <given-names>RE</given-names></string-name>, <string-name><surname>Tusting</surname>, <given-names>LS</given-names></string-name>, <string-name><surname>Kang</surname>, <given-names>SY</given-names></string-name>, <string-name><surname>Cameron</surname>, <given-names>E</given-names></string-name>, <string-name><surname>Bisanzio</surname>, <given-names>D</given-names></string-name>, <string-name><surname>Battle</surname>, <given-names>KE</given-names></string-name>, <string-name><surname>Bhatt</surname>, <given-names>S</given-names></string-name>, <string-name><surname>Gething</surname>, <given-names>PW.</given-names></string-name> <year>2018</year>. <article-title>A global map of travel time to cities to assess inequalities in accessibility in 2015</article-title>. <source><italic>Nature</italic></source> <volume>553</volume>: <fpage>333</fpage>&#x2013;<lpage>336</lpage>.</mixed-citation>
+</ref>
+<ref id="ref29"><mixed-citation publication-type="book"><collab>World Bank</collab>. <year>2019</year>. <chapter-title>Belt and road economics: Opportunities and risks of transport corridors</chapter-title>. <publisher-loc>Washington, DC</publisher-loc>: <publisher-name>World Bank</publisher-name>. <comment>License: Creative Commons Attribution CC BY 3.0 IGO</comment>.</mixed-citation>
+</ref>
+<ref id="ref28"><mixed-citation publication-type="web"><collab>World Economic Forum</collab>. <year>2021</year>. <article-title>Belt and Road green investment that delivers on climate action</article-title>. <comment>Available at</comment> <ext-link ext-link-type="uri" xlink:href="https://www.weforum.org/agenda/2021/11/belt-and-road-green-investment-delivers-on-climate-action">https://www.weforum.org/agenda/2021/11/belt-and-road-green-investment-delivers-on-climate-action</ext-link>.</mixed-citation>
+</ref>
+<ref id="ref30"><mixed-citation publication-type="journal">
+<string-name><surname>Wu</surname>, <given-names>H</given-names></string-name>, <string-name><surname>Ren</surname>, <given-names>S</given-names></string-name>, <string-name><surname>Yan</surname>, <given-names>G</given-names></string-name>, <string-name><surname>Hao</surname>, <given-names>Y.</given-names></string-name> <year>2020</year>. <article-title>Does China&#x2019;s outward direct investment improve green total factor productivity in the &#x201C;belt and road&#x201D; countries? Evidence from dynamic threshold panel model analysis</article-title>. <source><italic>Journal of Environmental Management</italic></source> <volume>275</volume>: <fpage>111295</fpage>.</mixed-citation>
+</ref>
+<ref id="ref31"><mixed-citation publication-type="journal">
+<string-name><surname>Xin</surname>, <given-names>L</given-names></string-name>, <string-name><surname>Wang</surname>, <given-names>Y.</given-names></string-name> <year>2022</year>. <article-title>Towards a green world: The impact of the belt and road initiative on the carbon intensity reduction of countries along the route</article-title>. <source><italic>Environmental Science and Pollution Research</italic></source> <volume>29</volume>&#x0028;<issue>19</issue>&#x0029;: <fpage>28510</fpage>&#x2013;<lpage>28526</lpage>.</mixed-citation>
+</ref></ref-list><sec id="s18"><title/><p><bold>How to cite this article</bold> Li, Y, Khan, J. 2024. Decoupling with&#x0028;out&#x0029; outsourcing? Quantifying emissions embodied in BRI trade with implications for climate policy. <italic>Elementa: Science of the Anthropocene</italic> 12&#x0028;1&#x0029;. DOI: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1525/elementa.2023.00068">https://doi.org/10.1525/elementa.2023.00068</ext-link></p><p><bold>Domain Editor-in-Chief</bold> Alastair Iles, University of California Berkeley, Berkeley, CA, USA</p><p><bold>Associate Editor</bold> Yuwei Shi, University of California Santa Cruz, Santa Cruz, CA, USA</p><p><bold>Knowledge Domain</bold> Sustainability Transitions</p></sec></back></article>
